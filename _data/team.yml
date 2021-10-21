@@ -1,0 +1,82 @@
+- id: 1
+  name: "Rosa"
+  surname: "Castillo"
+  title: "Content, Diversity and Inclusion"
+  thumbnailUrl: rosa-castillo.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/arosacastillo/" }
+    - { name: "github", link: "https://github.com/cyberosa" }
+    - { name: "twitter", link: "https://twitter.com/rosacastilloPhD" }
+- id: 2
+  name: "Estefanía"
+  surname: "García"
+  title: "Organisation and Management"
+  thumbnailUrl: estefania-garcia.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - {
+        name: "linkedin",
+        link: " www.linkedin.com/in/estefanía-garcía-gallardo",
+      }
+    - { name: "github", link: "https://github.com/NyaGarcia" }
+    - { name: "twitter", link: "https://twitter.com/nyablk" }
+- id: 3
+  name: "Cristina"
+  surname: "Díaz"
+  title: "Community Relations"
+  thumbnailUrl: cristina-diaz.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cdg-97/" }
+    - { name: "github", link: "https://github.com/LadyNightmare" }
+    - { name: "twitter", link: "https://twitter.com/ladynightmare_2" }
+- id: 4
+  name: "Carlos"
+  surname: "Caballero"
+  title: "Organisation and Management"
+  thumbnailUrl: carlos-caballero.jpg
+  team: true
+  social:
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/carloscaballerogonzalez/",
+      }
+    - { name: "github", link: "https://github.com/caballerog" }
+    - { name: "twitter", link: "https://twitter.com/carlillo" }
+- id: 5
+  name: "Quino"
+  surname: "Terrasa"
+  title: "Social Media"
+  thumbnailUrl: joaquin-terrasa.png
+  team: true
+  social:
+    - { name: "linkedin", link: "https://github.com/LadyNightmare" }
+    - { name: "github", link: "https://github.com/espetro" }
+    - { name: "twitter", link: "https://twitter.com/flamenquino" }
+- id: 6
+  name: "Jose Antonio"
+  surname: "Palacios"
+  title: "Sponsors & Partnerships"
+  thumbnailUrl: jose-palacios.jpeg
+  team: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/joseantpalacios/" }
+    - { name: "github", link: "https://github.com/JoseAntpr" }
+    - { name: "twitter", link: "https://twitter.com/JoseAntPR" }
+- id: 7
+  name: "Francisco"
+  surname: "Baena"
+  title: "Local Activities"
+  thumbnailUrl: francisco-baena.jpeg
+  team: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/baenans/" }
+    - { name: "github", link: "https://github.com/baenans" }
+    - { name: "twitter", link: "https://twitter.com/baenans" }
