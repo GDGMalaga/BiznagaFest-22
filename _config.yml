@@ -137,7 +137,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "5"
+  price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "150"
   ribbon: "-50%"
@@ -150,7 +150,7 @@ ticketsOffers:
   soldOutText: "Coming Soon"
  -
   name: "General"
-  price: "10"
+  price: "15"
   priceCurrency: "EUR"
   ticketsNumber: "100"
   ribbon: "-20%"
@@ -165,7 +165,7 @@ ticketsOffers:
   soldOutText: "Coming Soon"
  -
   name: "Student"
-  price: "3"
+  price: "5"
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
