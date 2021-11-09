@@ -140,7 +140,6 @@ ticketsOffers:
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "150"
-  ribbon: "-50%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference"]
@@ -153,7 +152,6 @@ ticketsOffers:
   price: "15"
   priceCurrency: "EUR"
   ticketsNumber: "100"
-  ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
