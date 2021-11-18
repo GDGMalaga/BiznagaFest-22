@@ -111,7 +111,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_2.jpg"
 venueSmallImage2: "venue_4.jpg"
 venueTitle: "E.T.S. De Ingeniería Informática"
-venueFeatures: ["Amazing transport connections", "7+ spaces for different tracks", "Located in the heart of the University of Málaga Campus"]
+venueFeatures: ["Amazing transport connections", "Located in the heart of the University of Málaga Campus"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
