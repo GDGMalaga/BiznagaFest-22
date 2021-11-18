@@ -108,11 +108,10 @@ mapMobileCenterCoordinates: "36.7647499, -4.5642737"
 # Venue Block
 venueBlockTitle: "The Venue"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage1: "venue_2.jpg"
+venueSmallImage2: "venue_4.jpg"
+venueTitle: "E.T.S. De Ingeniería Informática"
+venueFeatures: ["Amazing transport connections", "7+ spaces for different tracks", "Located in the heart of the University of Málaga Campus"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
