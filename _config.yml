@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Season", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://ocm.gdgmalaga.dev/", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://www.eventbrite.es/e/biznagafest-tickets-189228326017", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BiznagaFest"
