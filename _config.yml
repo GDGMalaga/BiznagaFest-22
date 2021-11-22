@@ -138,7 +138,7 @@ ticketsOffers:
   name: "Early Bird"
   price: "10"
   priceCurrency: "EUR"
-  ticketsNumber: "150"
+  ticketsNumber: "50"
   buyButtonLink: "https://www.eventbrite.es/e/biznagafest-tickets-189228326017"
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference]
@@ -150,7 +150,7 @@ ticketsOffers:
   name: "General"
   price: "15"
   priceCurrency: "EUR"
-  ticketsNumber: "100"
+  ticketsNumber: "200"
   featured: true
   buyButtonLink: "https://www.eventbrite.es/e/biznagafest-tickets-189228326017"
   buyButtonText: "Buy Now"
@@ -163,7 +163,7 @@ ticketsOffers:
   name: "Student"
   price: "5"
   priceCurrency: "EUR"
-  ticketsNumber: "50"
+  ticketsNumber: "150"
   buyButtonLink: "https://www.eventbrite.es/e/biznagafest-tickets-189228326017"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
