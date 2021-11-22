@@ -126,9 +126,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "BiznagaFest"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Tickets are live! Number of tickets are limited. Be quick and get yours!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -142,10 +142,10 @@ ticketsOffers:
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference"]
-  validFrom: "2021-08-25T10:00"
-  validThrough: "2021-09-30T23:59"
-  soldOut: true
-  soldOutText: "Coming Soon"
+  validFrom: "2021-11-21T10:00"
+  validThrough: "2022-01-14T23:30"
+  #soldOut: true
+  #soldOutText: "Sold Out"
  -
   name: "General"
   price: "15"
@@ -155,9 +155,8 @@ ticketsOffers:
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference"]
-  validFrom: "2021-10-01T00:00"
-  validThrough: "2021-10-23T23:59"
-  #disabled: true
+  validFrom: "2021-11-01T00:00"
+  validThrough: "2022-01-14T23:30"
   soldOut: true
   soldOutText: "Coming Soon"
  -
@@ -169,10 +168,8 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: [Full access to the conference"]
-  validFrom: "2021-08-20T10:00"
-  validThrough: "2021-10-23T23:59"
-  soldOut: true
-  soldOutText: "Coming Soon"
+  validFrom: "2021-11-21T10:00"
+  validThrough: "2022-01-14T23:30"
 
 # Footer
 socialLinks:
