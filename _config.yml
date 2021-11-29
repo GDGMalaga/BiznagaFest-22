@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/cod/", text: "Code of Conduct"}
@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks and hand in sessions"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
- - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus networking"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
