@@ -6,10 +6,17 @@
   bio: "Andreu Ibanez is a Google expert, Google Developers Group Lleida Founder and lead organizer, Co-organizer at GDG Spain, mentor admin, and speaker in the Google Open Source programs Google Summer of Code and Google Code-in. Director TIC Laboratories at the Scientific Park of Lleida, Spain. where he founded in 2010 the Liquid Galaxy LAB, a Google GEO projects LAB, now extended with the Artificial Intelligence LAB, LleidaDrone LAB, and P.E.R.A. LAB. Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google and third parties, and giving advice to Tech startups in different areas such as BIM modeling, e-sports, and others. He's Founder and President LleidaDrone, one of the oldest drone technology associations in Spain, well known for his Professional and Amateur conferences, now heading his 17th edition and with more than 80 different drone events developed."
   thumbnailUrl: andreu-ibanez.jpeg
   rockstar: true
+  ribbon:
+    - {
+        abbr: "GDG",
+        title: "Google Developer Group",
+        url: "https://gdg.community.dev/gdg-lleida/",
+      }
   social:
     - { name: "github", link: "https://github.com/LiquidGalaxyLAB/" }
     - { name: "twitter", link: "https://twitter.com/andreuibanez" }
     - { name: "linkedin", link: "https://www.linkedin.com/in/andreuibanez/" }
+
 - id: 4
   name: "Laura"
   surname: "Morillo-Velarde Rodríguez"
@@ -18,6 +25,12 @@
   bio: "Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web."
   thumbnailUrl: laura-morillo.jpeg
   rockstar: true
+  ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/experts/",
+      }
   social:
     - { name: "twitter", link: "https://twitter.com/Laura_Morillo" }
 #-
