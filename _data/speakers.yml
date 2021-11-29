@@ -10,19 +10,16 @@
     - { name: "github", link: "https://github.com/LiquidGalaxyLAB/" }
     - { name: "twitter", link: "https://twitter.com/andreuibanez" }
     - { name: "linkedin", link: "https://www.linkedin.com/in/andreuibanez/" }
-# -
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  company: "Lemberg Solutions Limited"
-#  title: "Android Developer"
-#  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- id: 4
+  name: "Laura"
+  surname: "Morillo-Velarde Rodríguez"
+  company: "Seedtag"
+  title: "Team Lead"
+  bio: "Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web."
+  thumbnailUrl: laura-morillo.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Laura_Morillo" }
 #-
 #  id: 5
 #  name: "Mateusz"
