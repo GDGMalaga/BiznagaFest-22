@@ -26,7 +26,7 @@
         name: 'Cervezas Victoria',
         description: 'Cervezas Victoria',
         link: 'https://www.cervezavictoria.es/es',
-        imageUrl: 'Victoria.pdf',
+        imageUrl: 'Victoria.svg',
         width: '120px',
       }
 #-
