@@ -1,16 +1,37 @@
-- 
-  group: "Platinum Sponsors"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#- 
-#  group: "With support of"
-#  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-#- 
+- group: 'Platinum Sponsors'
+  elements:
+    - {
+        name: 'Google',
+        description: 'Google',
+        link: 'https://www.google.com.ua/intl/en/about/',
+        imageUrl: 'google.svg',
+      }
+    - {
+        name: 'Fortris',
+        description: 'Fortris',
+        link: 'https://www.google.com.ua/intl/en/about/',
+        imageUrl: 'fortris.svg',
+      }
+- group: 'Silver Sponsors'
+  elements:
+    - {
+        name: 'Freepik',
+        description: 'Freepik',
+        link: 'https://www.freepikcompany.com/es/sobre-nosotros',
+        imageUrl: 'freepik.svg',
+      }
+- group: 'With support of'
+  elements:
+    - {
+        name: 'Cervezas Victoria',
+        description: 'Cervezas Victoria',
+        link: 'https://www.cervezavictoria.es/es',
+        imageUrl: 'Victoria.pdf',
+        width: '120px',
+      }
+#-
 #  group: "Information partners"
-#  elements: 
+#  elements:
 #    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
