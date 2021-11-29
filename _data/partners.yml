@@ -9,7 +9,7 @@
     - {
         name: 'Fortris',
         description: 'Fortris',
-        link: 'https://www.google.com.ua/intl/en/about/',
+        link: 'https://www.fortris.com/',
         imageUrl: 'fortris.svg',
       }
 - group: 'Silver Sponsors'
