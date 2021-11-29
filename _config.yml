@@ -62,7 +62,7 @@ eventDate: "15/01/2022"
 typeoutTextValues: '"", "Season", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://ocm.gdgmalaga.dev/", text: "Become a speaker"}
+# - {link: "https://ocm.gdgmalaga.dev/", text: "Become a speaker"}
  - {permalink: "https://www.eventbrite.es/e/biznagafest-tickets-189228326017", text: "Buy tickets"}
 
 # About Block
