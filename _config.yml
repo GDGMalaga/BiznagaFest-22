@@ -157,8 +157,8 @@ ticketsOffers:
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-01T00:00"
   validThrough: "2022-01-14T23:30"
-  soldOut: true
-  soldOutText: "Coming Soon"
+#  soldOut: true
+#  soldOutText: "Coming Soon"
  -
   name: "Student"
   price: "5"
