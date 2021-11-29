@@ -132,7 +132,7 @@ subscribeInfo: "Tickets are live! Number of tickets are limited. Be quick and ge
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
