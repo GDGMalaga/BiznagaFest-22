@@ -80,3 +80,12 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/baenans/" }
     - { name: "github", link: "https://github.com/baenans" }
     - { name: "twitter", link: "https://twitter.com/baenans" }
+- id: 7
+  name: "Jose"
+  surname: "Barrera"
+  title: "UX & Design"
+  thumbnailUrl: jose-barrera.jpeg
+  team: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/joseabarreram/" }
+    - { name: "twitter", link: "https://twitter.com/joseabarreram" }

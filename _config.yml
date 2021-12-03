@@ -143,9 +143,9 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-21T10:00"
-  validThrough: "2022-01-14T23:30"
-  #soldOut: true
-  #soldOutText: "Sold Out"
+  validThrough: "2021-12-30T23:30"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "General"
   price: "15"
