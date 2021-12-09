@@ -78,3 +78,10 @@
   speakers: [11]
   language: es
   complexity: "Intermediate"
+- id: 009
+  title: "Crea tu chatbot desde 0 sin código"
+  description: "Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión."
+  subtype: presentation
+  speakers: [12]
+  language: es
+  complexity: "Beginner"

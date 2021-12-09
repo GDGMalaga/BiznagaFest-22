@@ -105,8 +105,8 @@
 - id: 11
   name: "Jesús"
   surname: "Cuesta"
-  company: "Senior Specialist Lead"
-  title: "Deloitte"
+  company: "Deloitte"
+  title: "Senior Specialist Lead"
   bio: "Passionate about new technologies, trend analysis and prediction, marketing and people. Currently I work as a Specialist Lead doing presales, defining architectures, managing teams and developing projects for international clients. I also collaborate in different communities such as Openexpo, Cloud Developers, Smart Devices and HackathonLovers."
   thumbnailUrl: jesus-cuesta.jpg
   rockstar: true
@@ -117,6 +117,17 @@
         name: "linkedin",
         link: "http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803",
       }
+- id: 12
+  name: "Jorge"
+  surname: "Prudencio Fernández"
+  company: "Sngular"
+  title: "Software Architect"
+  bio: "I have worked in some of the biggest companies in Spain, like BBVA and Telefonica, always in innovation departments. I have experience in international environments too. I have developed projects for companies like Mozilla or Singapore Airlines."
+  thumbnailUrl: jorge-prudencio.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/jorpruden" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jorgeprudencio/" }
 #-
 #  id: 7
 #  name: "Valentyn"
