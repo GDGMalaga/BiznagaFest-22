@@ -65,6 +65,22 @@
   rockstar: true
   social:
     - { name: "twitter", link: "https://twitter.com/tinocoooo" }
+- id: 8
+  name: "Elena"
+  surname: "G. Blanco"
+  company: "Prodware"
+  title: "Microsoft MVP"
+  bio: ".NET developer | Microsoft MVP | speaker | worldbuilding, storytelling | gamedev, futurism | she/they | opinions are my own | #AzureHeroes"
+  thumbnailUrl: elena-guzman.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
+    - { name: "github", link: "https://github.com/Beelzenef" }
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/elena-guzman-blanco/",
+      }
+    - { name: "youtube", link: "https://www.youtube.com/c/ElenaDotNET" }
 #-
 #  id: 7
 #  name: "Valentyn"
