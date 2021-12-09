@@ -71,3 +71,10 @@
   speakers: [10]
   language: es
   complexity: "Intermediate"
+- id: 009
+  title: "Cómo bordar la Arquitectura Microfrontends con Angular"
+  description: "Este año ha terminado de despegar las arquitecturas de Microfrontends, y han pasado de ser algo innovador a ser un tipo de soluciones tecnológicas que solicitan las empresas. Esta visibilidad facilitada a través de las publicaciones de Luca Mezzalira y Manfred Steyer. A lo largo de la charla analizaremos como abordar las arquitecturas de microfrontends, ya utilizadas en proyectos reales, con una base central de Angular. Además de dar un repaso rápido a algunos conceptos necesarios para dichas arquitecturas como monorepo, multirepo, estados, etc..."
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: "Intermediate"

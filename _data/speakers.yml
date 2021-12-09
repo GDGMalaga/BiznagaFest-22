@@ -102,6 +102,21 @@
   rockstar: true
   social:
     - { name: "twitter", link: "https://twitter.com/IrnMM" }
+- id: 11
+  name: "Jesús"
+  surname: "Cuesta"
+  company: "Senior Specialist Lead"
+  title: "Deloitte"
+  bio: "Passionate about new technologies, trend analysis and prediction, marketing and people. Currently I work as a Specialist Lead doing presales, defining architectures, managing teams and developing projects for international clients. I also collaborate in different communities such as Openexpo, Cloud Developers, Smart Devices and HackathonLovers."
+  thumbnailUrl: jesus-cuesta.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/dejesuscuesta" }
+    - { name: "github", link: "https://github.com/jesuscuesta/" }
+    - {
+        name: "linkedin",
+        link: "http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803",
+      }
 #-
 #  id: 7
 #  name: "Valentyn"
