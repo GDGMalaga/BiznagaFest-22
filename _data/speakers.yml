@@ -81,6 +81,17 @@
         link: "https://www.linkedin.com/in/elena-guzman-blanco/",
       }
     - { name: "youtube", link: "https://www.youtube.com/c/ElenaDotNET" }
+- id: 9
+  name: "Gema"
+  surname: "Socorro Rodríguez"
+  company: "Cabify"
+  title: "Senior Android Engineer"
+  bio: "I've been programming for more than 10 years (6 of them remotely). Most of that time has been spent doing apps for Android (and, of course, breaking them). I love to convert ideas in a reality, overheat my computer with Android Studio and catch my own bugs. I have a superpower: I'm always able to find the right gif for every moment!"
+  thumbnailUrl: gema-socorro.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/gemamsr" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gemasr/" }
 #-
 #  id: 7
 #  name: "Valentyn"

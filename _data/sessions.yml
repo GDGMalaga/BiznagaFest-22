@@ -57,3 +57,10 @@
   speakers: [8]
   language: es
   complexity: "Intermediate"
+- id: 007
+  title: "Develop your music app with lots of flow"
+  description: "Do you want to learn how to use Flow (and StateFlow)? Let's use it to create an musical app, to compose together this symphony, applying reactive rhymes and using as base the MVI architecture in Android. In this talk we will share a journey to create a musical app in Android, applying the latest concurrency trends from Kotlin and this beloved reactive Android architecture. We will go from the origins and basics of the architecture, its advantages (and downsides), to the current implementation using the Flow API."
+  subtype: presentation
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
