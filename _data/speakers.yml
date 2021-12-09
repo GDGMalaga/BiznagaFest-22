@@ -55,6 +55,16 @@
   social:
     - { name: "github", link: "https://github.com/acidonper" }
     - { name: "twitter", link: "https://twitter.com/asierc3" }
+- id: 7
+  name: "Ana"
+  surname: "Tinoco Linares"
+  company: "Google"
+  title: "Tech support staff in VirusTotal"
+  bio: "Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music love"
+  thumbnailUrl: ana-tinoco.jpeg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/tinocoooo" }
 #-
 #  id: 7
 #  name: "Valentyn"
