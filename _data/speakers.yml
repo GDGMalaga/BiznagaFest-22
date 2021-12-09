@@ -92,6 +92,16 @@
   social:
     - { name: "twitter", link: "https://twitter.com/gemamsr" }
     - { name: "linkedin", link: "https://www.linkedin.com/in/gemasr/" }
+- id: 10
+  name: "Irene"
+  surname: "M. Morgado"
+  company: "Kairós Digital Solutions"
+  title: "Head of Talent & Brand en Kairós Digital Solutions"
+  bio: "Más de 13 años de experiencia. Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles. Desarrollo de iniciativas para hiring, atracción y fidelización de talento en equipos internacionales, implementación de medidas para mejorar el entorno profesional, con foco en las personas."
+  thumbnailUrl: irene-morgado.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/IrnMM" }
 #-
 #  id: 7
 #  name: "Valentyn"

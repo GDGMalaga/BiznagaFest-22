@@ -64,3 +64,10 @@
   speakers: [9]
   language: en
   complexity: "Intermediate"
+- id: 008
+  title: "Bias Story (o cómo los malvados Sesgos no te dejan avanzar)"
+  description: "Sesgos, yo? ¡Que va! Pero... ¿Seguro que es bueno que mi siguiente reto profesional sea gestionar personas? ¿Es posible crecer y mejorar como individuos y profesionales, o como adultos ya es tarde para cambiar? ¿Cómo puedo negociar mejor mi próxima subida salarial? Y, en serio, ¿cómo es posible que siga habiendo TANTOS terraplanistas? En esta charla hablaremos de cómo los famosos sesgos influyen en tu día a día profesional y cómo puedes dar la vuelta a la tortilla para identificarlos, aprender y beneficiarte de ellos para ser mejor profesional y mejor persona."
+  subtype: presentation
+  speakers: [10]
+  language: es
+  complexity: "Intermediate"
