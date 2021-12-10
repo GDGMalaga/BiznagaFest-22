@@ -42,11 +42,18 @@
 #  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Creando extensiones en Google Chrome"
+  description: "En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Beginner"
+#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- id: 006
+  title: "Destino: Planeta Azure"
+  description: "En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!"
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Intermediate"
