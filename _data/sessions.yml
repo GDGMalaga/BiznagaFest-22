@@ -85,11 +85,10 @@
   speakers: [12]
   language: es
   complexity: 'Beginner'
-  - id: 012
+- id: 012
   title: '¿Qué pasa en mis microservicios? Distributed tracing'
   description: 'Mucho se ha hablado de microservicios y su puesta en producción con sistemas como Kubernetes pero... ¿ahora qué? Una vez que el sistema está en producción, hay que monitorizarlo para saber lo que está pasando. En esta charla tendremos una introducción a uno de los temas más candentes del sector tecnológico: observability (y más concretamente, distributed tracing).'
   subtype: presentation
   speakers: [8]
   language: es
   complexity: 'Beginner'
-
