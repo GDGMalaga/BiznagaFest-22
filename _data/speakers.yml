@@ -50,7 +50,7 @@
   company: 'Google'
   title: 'Tech support staff'
   bio: 'Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music lover'
-  thumbnailUrl: ana-tinoco.jpeg
+  thumbnailUrl: ana-tinoco.jpg
   rockstar: true
   social:
     - { name: 'twitter', link: 'https://twitter.com/tinocoooo' }

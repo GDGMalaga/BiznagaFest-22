@@ -1,87 +1,95 @@
 - id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: 'Coffee Break'
+  place: 'Hall'
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: 'The best time to talk with speakers and attendees'
 - id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: 'Lunch Break'
+  place: 'Dining room'
   service: true
 - id: 001
-  title: "11 años de becas Google para desarrollos Open Source basados en mapas, Inteligencia artificial y otras tecnologías"
-  description: "Andreu presentará su experiencia muy cercana a Google desarrollando proyectos Open Source con estudiantes universitarios desde los Laboratorios TIC del Parque Científico de Lleida, haciendo hincapié en aquellos de base en Inteligencia Artificial. Con 63 proyectos becados con más de 250.000€ para estudiantes de 10 países, Andreu nos explicará sus métodos de dinamización de los laboratorios y sus actividades con Google y otras tecnológicas."
+  title: '11 años de becas Google para desarrollos Open Source basados en mapas, Inteligencia artificial y otras tecnologías'
+  description: 'Andreu presentará su experiencia muy cercana a Google desarrollando proyectos Open Source con estudiantes universitarios desde los Laboratorios TIC del Parque Científico de Lleida, haciendo hincapié en aquellos de base en Inteligencia Artificial. Con 63 proyectos becados con más de 250.000€ para estudiantes de 10 países, Andreu nos explicará sus métodos de dinamización de los laboratorios y sus actividades con Google y otras tecnológicas.'
   subtype: presentation
-  speakers: [3]
+  speakers: [9]
   language: es
-  complexity: "Beginner"
+  complexity: 'Beginner'
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 002
-  title: "Devops con Docker, Kubernetes y otras herramientas"
-  description: "La brecha entre desarrollo y operaciones puede ser más fácil de superar con las herramientas adecuadas. En esta charla hablaremos de qué es DevOps y veremos cómo utilizando Docker y Kubernetes podemos simplificar nuestro flujo de trabajo y el paso a producción para ir adoptando las buenas prácticas que la filosofía Devops propone."
-  subtype: presentation
-  speakers: [4]
-  language: es
-  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-- id: 003
-  title: "I want to Burp Free"
-  description: "Charla de introducción al uso de BurpSuite para búsqueda y explotación de vulnerabilidades web. BurpSuite de PortSwigger es actualmente la herramienta más utilizada en lo que a hacking web se refiere. Está compuesta por numerosos módulos, a los que además se les puede añadir plugins externos para complementer ciertas tareas. En la charla se explicará a nivel introductorio para qué sirve la herramienta y cómo se utiliza. Además se verán casos prácticos de explotación de ciertas vulnerabilidades web utilizando módulos de la misma."
+  title: 'Devops con Docker, Kubernetes y otras herramientas'
+  description: 'La brecha entre desarrollo y operaciones puede ser más fácil de superar con las herramientas adecuadas. En esta charla hablaremos de qué es DevOps y veremos cómo utilizando Docker y Kubernetes podemos simplificar nuestro flujo de trabajo y el paso a producción para ir adoptando las buenas prácticas que la filosofía Devops propone.'
   subtype: presentation
   speakers: [5]
   language: es
-  complexity: "Intermediate"
+  complexity: 'Intermediate'
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-- id: 004
-  title: "ArgoCD ¿La herramienta GitOps definitiva?"
-  description: "Durante esta charla veremos qué es ArgoCD y porqué se ha convertido en uno de los proyectos open source más nombrados en los últimos tiempos en cualquier charla acerca de DevOps o GitOps. Básicamente, ArgoCD es un controlador cloud-native diseñado para Kubernetes que vela porque las aplicaciones que están corriendo en Kubernetes y la visión de cómo han de correr que el equipo de desarrollo define en un repositorio Git, sea idéntica. También veremos qué es la fuente de verdad que definen los desarrolladores, lo bonito que luce el interfaz de ArgoCD y daremos una pinceladas sobre sus características más importantes."
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- id: 003
+  title: 'I want to Burp Free'
+  description: 'Charla de introducción al uso de BurpSuite para búsqueda y explotación de vulnerabilidades web. BurpSuite de PortSwigger es actualmente la herramienta más utilizada en lo que a hacking web se refiere. Está compuesta por numerosos módulos, a los que además se les puede añadir plugins externos para complementer ciertas tareas. En la charla se explicará a nivel introductorio para qué sirve la herramienta y cómo se utiliza. Además se verán casos prácticos de explotación de ciertas vulnerabilidades web utilizando módulos de la misma.'
   subtype: presentation
   speakers: [6]
   language: es
-  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-- id: 005
-  title: "Creando extensiones en Google Chrome"
-  description: "En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero."
+  complexity: 'Intermediate'
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+- id: 004
+  title: 'ArgoCD ¿La herramienta GitOps definitiva?'
+  description: 'Durante esta charla veremos qué es ArgoCD y porqué se ha convertido en uno de los proyectos open source más nombrados en los últimos tiempos en cualquier charla acerca de DevOps o GitOps. Básicamente, ArgoCD es un controlador cloud-native diseñado para Kubernetes que vela porque las aplicaciones que están corriendo en Kubernetes y la visión de cómo han de correr que el equipo de desarrollo define en un repositorio Git, sea idéntica. También veremos qué es la fuente de verdad que definen los desarrolladores, lo bonito que luce el interfaz de ArgoCD y daremos una pinceladas sobre sus características más importantes.'
   subtype: presentation
   speakers: [7]
   language: es
-  complexity: "Beginner"
+  complexity: 'Intermediate'
+#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- id: 005
+  title: 'Creando extensiones en Google Chrome'
+  description: 'En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero.'
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: 'Beginner'
 #  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 006
-  title: "Destino: Planeta Azure"
-  description: "En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!"
+  title: 'Destino: Planeta Azure'
+  description: 'En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!'
   subtype: presentation
-  speakers: [8]
+  speakers: [1]
   language: es
-  complexity: "Intermediate"
+  complexity: 'Intermediate'
 - id: 007
-  title: "Develop your music app with lots of flow"
+  title: 'Develop your music app with lots of flow'
   description: "Do you want to learn how to use Flow (and StateFlow)? Let's use it to create an musical app, to compose together this symphony, applying reactive rhymes and using as base the MVI architecture in Android. In this talk we will share a journey to create a musical app in Android, applying the latest concurrency trends from Kotlin and this beloved reactive Android architecture. We will go from the origins and basics of the architecture, its advantages (and downsides), to the current implementation using the Flow API."
   subtype: presentation
-  speakers: [9]
+  speakers: [2]
   language: en
-  complexity: "Intermediate"
+  complexity: 'Intermediate'
 - id: 008
-  title: "Bias Story (o cómo los malvados Sesgos no te dejan avanzar)"
-  description: "Sesgos, yo? ¡Que va! Pero... ¿Seguro que es bueno que mi siguiente reto profesional sea gestionar personas? ¿Es posible crecer y mejorar como individuos y profesionales, o como adultos ya es tarde para cambiar? ¿Cómo puedo negociar mejor mi próxima subida salarial? Y, en serio, ¿cómo es posible que siga habiendo TANTOS terraplanistas? En esta charla hablaremos de cómo los famosos sesgos influyen en tu día a día profesional y cómo puedes dar la vuelta a la tortilla para identificarlos, aprender y beneficiarte de ellos para ser mejor profesional y mejor persona."
+  title: 'Bias Story (o cómo los malvados Sesgos no te dejan avanzar)'
+  description: 'Sesgos, yo? ¡Que va! Pero... ¿Seguro que es bueno que mi siguiente reto profesional sea gestionar personas? ¿Es posible crecer y mejorar como individuos y profesionales, o como adultos ya es tarde para cambiar? ¿Cómo puedo negociar mejor mi próxima subida salarial? Y, en serio, ¿cómo es posible que siga habiendo TANTOS terraplanistas? En esta charla hablaremos de cómo los famosos sesgos influyen en tu día a día profesional y cómo puedes dar la vuelta a la tortilla para identificarlos, aprender y beneficiarte de ellos para ser mejor profesional y mejor persona.'
   subtype: presentation
   speakers: [10]
   language: es
-  complexity: "Intermediate"
+  complexity: 'Intermediate'
 - id: 009
-  title: "Cómo bordar la Arquitectura Microfrontends con Angular"
-  description: "Este año ha terminado de despegar las arquitecturas de Microfrontends, y han pasado de ser algo innovador a ser un tipo de soluciones tecnológicas que solicitan las empresas. Esta visibilidad facilitada a través de las publicaciones de Luca Mezzalira y Manfred Steyer. A lo largo de la charla analizaremos como abordar las arquitecturas de microfrontends, ya utilizadas en proyectos reales, con una base central de Angular. Además de dar un repaso rápido a algunos conceptos necesarios para dichas arquitecturas como monorepo, multirepo, estados, etc..."
+  title: 'Cómo bordar la Arquitectura Microfrontends con Angular'
+  description: 'Este año ha terminado de despegar las arquitecturas de Microfrontends, y han pasado de ser algo innovador a ser un tipo de soluciones tecnológicas que solicitan las empresas. Esta visibilidad facilitada a través de las publicaciones de Luca Mezzalira y Manfred Steyer. A lo largo de la charla analizaremos como abordar las arquitecturas de microfrontends, ya utilizadas en proyectos reales, con una base central de Angular. Además de dar un repaso rápido a algunos conceptos necesarios para dichas arquitecturas como monorepo, multirepo, estados, etc...'
   subtype: presentation
-  speakers: [11]
+  speakers: [3]
   language: es
-  complexity: "Intermediate"
-- id: 009
-  title: "Crea tu chatbot desde 0 sin código"
-  description: "Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión."
+  complexity: 'Intermediate'
+- id: 010
+  title: 'Crea tu chatbot desde 0 sin código'
+  description: 'Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión.'
   subtype: presentation
   speakers: [12]
   language: es
-  complexity: "Beginner"
+  complexity: 'Beginner'
+  - id: 011
+  title: '¿Qué pasa en mis microservicios? Distributed tracing'
+  description: 'Mucho se ha hablado de microservicios y su puesta en producción con sistemas como Kubernetes pero... ¿ahora qué? Una vez que el sistema está en producción, hay que monitorizarlo para saber lo que está pasando. En esta charla tendremos una introducción a uno de los temas más candentes del sector tecnológico: observability (y más concretamente, distributed tracing).'
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: 'Beginner'
+
