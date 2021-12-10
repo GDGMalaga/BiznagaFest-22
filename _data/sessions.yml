@@ -78,14 +78,14 @@
   speakers: [3]
   language: es
   complexity: 'Intermediate'
-- id: 010
+- id: 011
   title: 'Crea tu chatbot desde 0 sin código'
   description: 'Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión.'
   subtype: presentation
   speakers: [12]
   language: es
   complexity: 'Beginner'
-  - id: 011
+  - id: 012
   title: '¿Qué pasa en mis microservicios? Distributed tracing'
   description: 'Mucho se ha hablado de microservicios y su puesta en producción con sistemas como Kubernetes pero... ¿ahora qué? Una vez que el sistema está en producción, hay que monitorizarlo para saber lo que está pasando. En esta charla tendremos una introducción a uno de los temas más candentes del sector tecnológico: observability (y más concretamente, distributed tracing).'
   subtype: presentation
