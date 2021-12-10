@@ -1,133 +1,156 @@
+- id: 1
+  name: 'Elena'
+  surname: 'Guzmán Blanco'
+  company: 'Prodware'
+  title: 'Microsoft MVP'
+  bio: '.NET developer | Microsoft MVP | speaker | worldbuilding, storytelling | gamedev, futurism | she/they | opinions are my own | #AzureHeroes'
+  thumbnailUrl: elena-guzman.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: 'Microsoft MVP', title: 'Microsoft MVP' }
+  social:
+    - { name: 'github', link: 'https://github.com/Beelzenef' }
+    - { name: 'twitter', link: 'https://twitter.com/Beelzenef_' }
+    - {
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/elena-guzman-blanco/',
+      }
+
+- id: 2
+  name: 'Gema'
+  surname: 'Socorro Rodríguez'
+  company: 'Cabiry'
+  title: 'Microsoft MVP'
+  bio: "I've been programming for more than 10 years (6 of them remotely). Most of that time has been spent doing apps for Android (and, of course, breaking them). I love to convert ideas in a reality, overheat my computer with Android Studio and catch my own bugs. I have a superpower: I'm always able to find the right gif for every moment!"
+  thumbnailUrl: gema-socorro.jpg
+  rockstar: true
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/gemamsr' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/gemasr/' }
+
 - id: 3
-  name: "Andreu"
-  surname: "Ibañez"
-  company: "GDG Spain"
-  title: "Google Developers Group Lleida Founder and lead organizer"
+  name: 'Jesús'
+  surname: 'Cuesta Arza'
+  company: 'Deloitte'
+  title: 'Senior Specialist Lead'
+  bio: 'Senior Specialist Lead en Deloitte, responsable de las arquitectura de aplicaciones, colaborador de OpenExpo y co-administrador de diferentes comunidades tecnológicas como Ionic Madrid. Ponente en eventos nacionales e internacionales y aficionado a los hackathones y eventos tecnológicos.'
+  thumbnailUrl: jesus-cuesta.jpg
+  rockstar: true
+  social:
+    - { name: 'github', link: 'https://github.com/jesuscuesta/' }
+    - { name: 'twitter', link: 'https://twitter.com/dejesuscuesta' }
+    - {
+        name: 'linkedin',
+        link: 'http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803',
+      }
+
+- id: 4
+  name: 'Ana'
+  surname: 'Tinoco Linares'
+  company: 'Google'
+  title: 'Tech support staff'
+  bio: 'Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music lover'
+  thumbnailUrl: ana-tinoco.jpeg
+  rockstar: true
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/tinocoooo' }
+
+- id: 5
+  name: 'Laura'
+  surname: 'Morillo-Velarde Rodríguez'
+  company: 'Seedtag'
+  title: 'Team Lead'
+  bio: 'Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web.'
+  thumbnailUrl: laura-morillo.jpeg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/',
+      }
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/Laura_Morillo' }
+- id: 6
+  name: 'Daniel'
+  surname: 'Púa Orozco'
+  company: ' Freepik'
+  title: 'Security Tech Lead'
+  bio: 'Security Tech Lead at Freepik Company. CTF player. Hack&Beers Málaga Organizer.'
+  thumbnailUrl: daniel-pua.png
+  rockstar: true
+  social:
+    - { name: 'github', link: 'https://github.com/devploit' }
+    - { name: 'twitter', link: 'https://twitter.com/devploit' }
+
+- id: 7
+  name: 'Asier'
+  surname: 'Cidón Perianez'
+  company: 'Red Hat'
+  title: 'Cloud Architect'
+  bio: 'More than 10 years experience in Open Sources projects. Passionate about automation, development, Linux, containers, DevOps, agile practices and continuously looking for new challenges and knowledge.'
+  thumbnailUrl: asier-cidon.jpeg
+  rockstar: true
+  social:
+    - { name: 'github', link: 'https://github.com/acidonper' }
+    - { name: 'twitter', link: 'https://twitter.com/asierc3' }
+
+- id: 8
+  name: 'Israel'
+  surname: 'Blancas'
+  company: 'Red Hat'
+  title: ''
+  bio: ''
+  thumbnailUrl: israel-blancas.jpeg
+  rockstar: true
+  social:
+    - { name: 'github', link: 'https://github.com/iblancasa' }
+    - { name: 'twitter', link: 'https://twitter.com/iblancasa' }
+    - {
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/iblancasa/?originalSubdomain=es',
+      }
+    - { name: 'youtube', link: 'https://www.youtube.com/c/ElenaDotNET' }
+- id: 10
+  name: 'Irene'
+  surname: 'M. Morgado'
+  company: 'Kairós Digital Solutions'
+  title: 'Head of Talent & Brand en Kairós Digital Solutions'
+  bio: 'Más de 13 años de experiencia. Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles. Desarrollo de iniciativas para hiring, atracción y fidelización de talento en equipos internacionales, implementación de medidas para mejorar el entorno profesional, con foco en las personas.'
+  thumbnailUrl: irene-morgado.jpg
+  rockstar: true
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/IrnMM' }
+- id: 12
+  name: 'Jorge'
+  surname: 'Prudencio Fernández'
+  company: 'Sngular'
+  title: 'Software Architect'
+  bio: 'I have worked in some of the biggest companies in Spain, like BBVA and Telefonica, always in innovation departments. I have experience in international environments too. I have developed projects for companies like Mozilla or Singapore Airlines.'
+  thumbnailUrl: jorge-prudencio.jpeg
+  rockstar: true
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/jorpruden' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/jorgeprudencio/' }
+
+- id: 9
+  name: 'Andreu'
+  surname: 'Ibañez'
+  company: 'GDG Spain'
+  title: 'Google Developers Group Lleida Founder and lead organizer'
   bio: "Andreu Ibanez is a Google expert, Google Developers Group Lleida Founder and lead organizer, Co-organizer at GDG Spain, mentor admin, and speaker in the Google Open Source programs Google Summer of Code and Google Code-in. Director TIC Laboratories at the Scientific Park of Lleida, Spain. where he founded in 2010 the Liquid Galaxy LAB, a Google GEO projects LAB, now extended with the Artificial Intelligence LAB, LleidaDrone LAB, and P.E.R.A. LAB. Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google and third parties, and giving advice to Tech startups in different areas such as BIM modeling, e-sports, and others. He's Founder and President LleidaDrone, one of the oldest drone technology associations in Spain, well known for his Professional and Amateur conferences, now heading his 17th edition and with more than 80 different drone events developed."
   thumbnailUrl: andreu-ibanez.jpeg
   rockstar: true
   ribbon:
     - {
-        abbr: "GDG",
-        title: "Google Developer Group",
-        url: "https://gdg.community.dev/gdg-lleida/",
+        abbr: 'GDG',
+        title: 'Google Developer Group',
+        url: 'https://gdg.community.dev/gdg-lleida/',
       }
   social:
-    - { name: "github", link: "https://github.com/LiquidGalaxyLAB/" }
-    - { name: "twitter", link: "https://twitter.com/andreuibanez" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/andreuibanez/" }
-
-- id: 4
-  name: "Laura"
-  surname: "Morillo-Velarde Rodríguez"
-  company: "Seedtag"
-  title: "Team Lead"
-  bio: "Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web."
-  thumbnailUrl: laura-morillo.jpeg
-  rockstar: true
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/experts/",
-      }
-  social:
-    - { name: "twitter", link: "https://twitter.com/Laura_Morillo" }
-- id: 5
-  name: "Daniel"
-  surname: "Púa Orozco"
-  company: " Freepik"
-  title: "Security Tech Lead"
-  bio: "Security Tech Lead at Freepik Company. CTF player. Hack&Beers Málaga Organizer."
-  thumbnailUrl: daniel-pua.png
-  rockstar: true
-  social:
-    - { name: "github", link: "https://github.com/devploit" }
-    - { name: "twitter", link: "https://twitter.com/devploit" }
-- id: 6
-  name: "Asier"
-  surname: "Cidón Perianez"
-  company: "Red Hat"
-  title: "Cloud Architect"
-  bio: "More than 10 years experience in Open Sources projects. Passionate about automation, development, Linux, containers, DevOps, agile practices and continuously looking for new challenges and knowledge."
-  thumbnailUrl: asier-cidon.jpeg
-  rockstar: true
-  social:
-    - { name: "github", link: "https://github.com/acidonper" }
-    - { name: "twitter", link: "https://twitter.com/asierc3" }
-- id: 7
-  name: "Ana"
-  surname: "Tinoco Linares"
-  company: "Google"
-  title: "Tech support staff in VirusTotal"
-  bio: "Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music love"
-  thumbnailUrl: ana-tinoco.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/tinocoooo" }
-- id: 8
-  name: "Elena"
-  surname: "G. Blanco"
-  company: "Prodware"
-  title: "Microsoft MVP"
-  bio: ".NET developer | Microsoft MVP | speaker | worldbuilding, storytelling | gamedev, futurism | she/they | opinions are my own | #AzureHeroes"
-  thumbnailUrl: elena-guzman.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
-    - { name: "github", link: "https://github.com/Beelzenef" }
-    - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/elena-guzman-blanco/",
-      }
-    - { name: "youtube", link: "https://www.youtube.com/c/ElenaDotNET" }
-- id: 9
-  name: "Gema"
-  surname: "Socorro Rodríguez"
-  company: "Cabify"
-  title: "Senior Android Engineer"
-  bio: "I've been programming for more than 10 years (6 of them remotely). Most of that time has been spent doing apps for Android (and, of course, breaking them). I love to convert ideas in a reality, overheat my computer with Android Studio and catch my own bugs. I have a superpower: I'm always able to find the right gif for every moment!"
-  thumbnailUrl: gema-socorro.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/gemamsr" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/gemasr/" }
-- id: 10
-  name: "Irene"
-  surname: "M. Morgado"
-  company: "Kairós Digital Solutions"
-  title: "Head of Talent & Brand en Kairós Digital Solutions"
-  bio: "Más de 13 años de experiencia. Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles. Desarrollo de iniciativas para hiring, atracción y fidelización de talento en equipos internacionales, implementación de medidas para mejorar el entorno profesional, con foco en las personas."
-  thumbnailUrl: irene-morgado.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/IrnMM" }
-- id: 11
-  name: "Jesús"
-  surname: "Cuesta"
-  company: "Deloitte"
-  title: "Senior Specialist Lead"
-  bio: "Passionate about new technologies, trend analysis and prediction, marketing and people. Currently I work as a Specialist Lead doing presales, defining architectures, managing teams and developing projects for international clients. I also collaborate in different communities such as Openexpo, Cloud Developers, Smart Devices and HackathonLovers."
-  thumbnailUrl: jesus-cuesta.jpg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/dejesuscuesta" }
-    - { name: "github", link: "https://github.com/jesuscuesta/" }
-    - {
-        name: "linkedin",
-        link: "http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803",
-      }
-- id: 12
-  name: "Jorge"
-  surname: "Prudencio Fernández"
-  company: "Sngular"
-  title: "Software Architect"
-  bio: "I have worked in some of the biggest companies in Spain, like BBVA and Telefonica, always in innovation departments. I have experience in international environments too. I have developed projects for companies like Mozilla or Singapore Airlines."
-  thumbnailUrl: jorge-prudencio.jpeg
-  rockstar: true
-  social:
-    - { name: "twitter", link: "https://twitter.com/jorpruden" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/jorgeprudencio/" }
+    - { name: 'github', link: 'https://github.com/LiquidGalaxyLAB/' }
+    - { name: 'twitter', link: 'https://twitter.com/andreuibanez' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/andreuibanez/' }
 #-
 #  id: 7
 #  name: "Valentyn"
