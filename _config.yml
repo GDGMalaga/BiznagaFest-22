@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "home.jpg"
 heroTitle: "BiznagaFest <typeout> 2021"
-eventDate: "25/03/2022"
+eventDate: "26/03/2022"
 typeoutTextValues: '"", "Season", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
