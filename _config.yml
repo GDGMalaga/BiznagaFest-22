@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "home.jpg"
 heroTitle: "BiznagaFest <typeout> 2021"
-eventDate: "15/01/2022"
+eventDate: "25/03/2022"
 typeoutTextValues: '"", "Season", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
@@ -156,7 +156,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-01T00:00"
-  validThrough: "2022-01-14T23:30"
+  validThrough: "2022-03-01T23:30"
 #  soldOut: true
 #  soldOutText: "Coming Soon"
  -
@@ -169,7 +169,7 @@ ticketsOffers:
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-21T10:00"
-  validThrough: "2022-01-14T23:30"
+  validThrough: "2022-03-01T23:30"
 
 # Footer
 socialLinks:
