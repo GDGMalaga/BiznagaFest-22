@@ -144,6 +144,22 @@
   social:
     - { name: 'twitter', link: 'https://twitter.com/jorpruden' }
     - { name: 'linkedin', link: 'https://www.linkedin.com/in/jorgeprudencio/' }
+- id: 13
+  name: 'Antonio'
+  surname: 'Alférez'
+  company: 'The Workshop'
+  title: 'DevOps Engineer'
+  bio: 'Antonio Alférez - DevOps Engineer at The Workshop. You'll probably find me playing sports (paddle tennis, what else would it be nowadays?) and enjoying some improvised beers with friends. In my spare time, I usually try not to break production.'
+  thumbnailUrl: antonio-alferez.jpg
+  rockstar: true
+- id: 14
+  name: 'Antonio'
+  surname: 'Tovar'
+  company: 'Fortris'
+  title: 'Innovation Team Lead'
+  bio: 'With over 8 years experience in Development and a degree in Computer Science, Antonio has focused his career on Blockchain, Bitcoin and Payment Technologies." Now he lead the Innovation team at Fortris where newest ideas and technologies are developed'
+  thumbnailUrl: antonio-tovar.jpeg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"
