@@ -149,7 +149,7 @@
   surname: 'Alférez'
   company: 'The Workshop'
   title: 'DevOps Engineer'
-  bio: 'Antonio Alférez - DevOps Engineer at The Workshop. You'll probably find me playing sports (paddle tennis, what else would it be nowadays?) and enjoying some improvised beers with friends. In my spare time, I usually try not to break production.'
+  bio: "Antonio Alférez - DevOps Engineer at The Workshop. You'll probably find me playing sports (paddle tennis, what else would it be nowadays?) and enjoying some improvised beers with friends. In my spare time, I usually try not to break production."
   thumbnailUrl: antonio-alferez.jpg
   rockstar: true
 - id: 14
