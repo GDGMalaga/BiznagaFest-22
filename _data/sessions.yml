@@ -94,7 +94,7 @@
   complexity: 'Beginner'
 - id: 013
   title: 'Introduction to service mesh, Istio as an implementation of this concept, and how it can help us solving challenges'
-  description: 'We can all agree that distributed systems can be really hard to tame. It's of high importance to have visibility into and control over the different layers of the stack in order to achieve a high-performance reliable infrastructure. Let's discover together how the concept of service mesh can be of help on this matter, and how Istio provides useful features to the network layer. '
+  description: "We can all agree that distributed systems can be really hard to tame. It's of high importance to have visibility into and control over the different layers of the stack in order to achieve a high-performance reliable infrastructure. Let's discover together how the concept of service mesh can be of help on this matter, and how Istio provides useful features to the network layer. "
   subtype: presentation
   speakers: [12]
   language: en
@@ -103,6 +103,6 @@
   title: 'Understanding Event Sourcing: principles, usage and common mistakes'
   description: 'Event sourcing is a design pattern that save the state of an entity as a sequence of state change events or facts, it can be seen as a time machine! We will speak about tips and mistakes to avoid from our experience.'
   subtype: presentation
-  speakers: [12]
+  speakers: [13]
   language: en
   complexity: 'Beginner'
