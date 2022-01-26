@@ -5,7 +5,7 @@
         description: "Fortris",
         link: "https://www.fortris.com/",
         imageUrl: "fortris.svg",
-      },
+      }
 - group: "Silver Sponsors"
   elements:
     - {
