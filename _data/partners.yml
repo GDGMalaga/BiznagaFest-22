@@ -6,6 +6,20 @@
         link: "https://www.fortris.com/",
         imageUrl: "fortris.svg",
       }
+- group: "Gold Sponsors"
+  elements:
+    - {
+        name: "Malt",
+        description: "Malt",
+        link: "https://www.fortris.com/",
+        imageUrl: "malt.jpeg",
+      }
+    - {
+        name: "Fill the Gapp",
+        description: "Fill the Gapp",
+        link: "https://fillthegapp.com//",
+        imageUrl: "fill_the_gapp.jpeg",
+      }
 - group: "Silver Sponsors"
   elements:
     - {
