@@ -2,9 +2,9 @@
   date: "2014-10-24"
   dateReadable: "October 24"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Track1", color: "#90be4e"}
+    - {title: "Track2", color: "#03a9f4"}
+    - {title: "IWD", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
