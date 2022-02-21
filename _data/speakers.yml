@@ -168,6 +168,14 @@
   bio: 'Software Engineer at @docker 🐳 Building tools that help devs work on code as a team. CKAD. I enjoy writing about Docker, Kubernetes, and Golang.'
   thumbnailUrl: felipe-cruz.jpg
   rockstar: true
+- id: 16
+  name: 'Majid'
+  surname: 'Hajian'
+  company: 'Telia'
+  title: 'Lead Solutions Architect'
+  bio: "Detailed-oriented, responsible, a committed engineer with a get-it-done, on-time, and high-quality product spirit who has a leadership passion and has experienced over decade-defining requirements, designing, architecting, implementing, testing, and delivering complex web application in both frontend and backend using various technologies, I care about sharing my knowledge and helping the community; therefore, I am an organizer of different conferences and meetups. I am love being in a developer advocacy position I believe that's what I can shine."
+  thumbnailUrl: majid-hajian.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

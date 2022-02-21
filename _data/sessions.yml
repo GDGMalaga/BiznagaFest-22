@@ -118,3 +118,10 @@
   speakers: [15]
   language: en
   complexity: 'Beginner'
+- id: 016
+  title: 'Failing job interviews'
+  description: "With Google’s Flutter framework continuing to grow in popularity for companies and developers alike, the need for an understanding of utilizing the framework in a large-scale context has become more relevant than ever. In this talk, I will share knowledge on how to start a project to automate mobile development. We will review scalable layer architecture, state management, and continue enhancing code collaboration and team culture."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: 'Intermediate'
