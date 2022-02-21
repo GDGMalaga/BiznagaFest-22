@@ -5,7 +5,7 @@
     - {title: "Auditorium", color: "#90be4e"}
     - {title: "Track 1", color: "#03a9f4"}
     - {title: "Track 2", color: "#e91e63"}
-    - {title: "Track 2", color: "#e5be01"}
+    - {title: "Track IWD", color: "#e5be01"}
   timeslots:
     - {
     	startTime: "10:00",
