@@ -1,10 +1,11 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2022-03-26"
+  dateReadable: "March 26"
   tracks: 
-    - {title: "Track1", color: "#90be4e"}
-    - {title: "Track2", color: "#03a9f4"}
-    - {title: "IWD", color: "#e91e63"}
+    - {title: "Auditorium", color: "#90be4e"}
+    - {title: "Track 1", color: "#03a9f4"}
+    - {title: "Track 2", color: "#e91e63"}
+    - {title: "Track 2", color: "#e5be01"}
   timeslots:
     - {
     	startTime: "10:00",
