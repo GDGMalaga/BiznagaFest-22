@@ -160,6 +160,14 @@
   bio: 'With over 8 years experience in Development and a degree in Computer Science, Antonio has focused his career on Blockchain, Bitcoin and Payment Technologies." Now he lead the Innovation team at Fortris where newest ideas and technologies are developed'
   thumbnailUrl: antonio-tovar.jpeg
   rockstar: true
+- id: 15
+  name: 'Felipe'
+  surname: 'Cruz'
+  company: 'Docker'
+  title: 'Software Engeneer'
+  bio: 'Software Engineer at @docker 🐳 Building tools that help devs work on code as a team. CKAD. I enjoy writing about Docker, Kubernetes, and Golang.'
+  thumbnailUrl: felipe-cruz.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

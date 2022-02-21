@@ -1,3 +1,8 @@
+- id: 100
+  title: 'Check-in'
+  place: 'Hall'
+  service: true
+  description: 'Show your ticket and start learning!'
 - id: 307
   title: 'Coffee Break'
   place: 'Hall'
@@ -104,5 +109,12 @@
   description: 'Event sourcing is a design pattern that save the state of an entity as a sequence of state change events or facts, it can be seen as a time machine! We will speak about tips and mistakes to avoid from our experience.'
   subtype: presentation
   speakers: [14]
+  language: en
+  complexity: 'Beginner'
+- id: 015
+  title: 'Improve Team Collaboration with Docker Dev Environments'
+  description: "The pandemic has emphasised the challenges of team collaboration, especially for teams working remotely. Companies are embracing a remote-first mindset and we have to find new ways of collaborating that make our day-to-day work easier. In this talk you'll learn how to take team collaboration to the next level with Docker Dev Enviroments: the new experience to share not just your application's code, but also the entire development context, such as dev tools, dependencies, etc. You'll discover how to create a pre-configured dev environment from any Git context and easily review your colleagues' work without affecting your work. You'll learn how to share your work-in-progress code with your team members in just one click. Finally, you'll see how to leverage the use of Docker Dev Environments to onboard new colleagues faster and get them to collaborate efficiently in your projects, instead of having them spend hours setting up all the developer tooling. If you want to know more about the next big step in software collaboration with Docker, join me!"
+  subtype: presentation
+  speakers: [15]
   language: en
   complexity: 'Beginner'
