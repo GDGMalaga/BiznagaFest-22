@@ -8,6 +8,11 @@
     - {title: "Track IWD", color: "#e5be01"}
   timeslots:
     - {
+      startTime: "08:30",
+      endTime: "15:00",
+      sessionIds: [100]
+    }
+    - {
     	startTime: "09:20",
     	endTime: "09:50",
     	sessionIds: [015, 404, 404, 404]
