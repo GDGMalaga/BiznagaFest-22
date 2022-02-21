@@ -176,6 +176,22 @@
   bio: "Detailed-oriented, responsible, a committed engineer with a get-it-done, on-time, and high-quality product spirit who has a leadership passion and has experienced over decade-defining requirements, designing, architecting, implementing, testing, and delivering complex web application in both frontend and backend using various technologies, I care about sharing my knowledge and helping the community; therefore, I am an organizer of different conferences and meetups. I am love being in a developer advocacy position I believe that's what I can shine."
   thumbnailUrl: majid-hajian.jpg
   rockstar: true
+- id: 17
+  name: 'Ruben'
+  surname: 'Cruz'
+  company: 'Lleego'
+  title: 'Frontend Developer'
+  bio: "Young web developer and occasionally game developer. Speaker. Obsessed with clean code. Always up to keep learning in this never ending journey that is programming. Currently developing Raccreative Games web platform."
+  thumbnailUrl: ruben-cruz.png
+  rockstar: true
+- id: 18
+  name: 'Eva'
+  surname: 'Avellaneda'
+  company: 'BMAT Music Innovation'
+  title: 'Client Manager'
+  bio: "Music lover and engineer consultant managing high tech projects for more than 10 years"
+  thumbnailUrl: eva-avellaneda.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

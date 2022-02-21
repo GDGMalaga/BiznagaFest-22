@@ -125,3 +125,17 @@
   speakers: [16]
   language: en
   complexity: 'Intermediate'
+- id: 017
+  title: 'Programando Videojuegos de Forma Reactiva en Unity con UniRx'
+  description: "Aprende a programar con UniRx en esta charla para poder crear videojuegos que se adapten a cualquier flujo de datos de forma rápida y optimizada. UniRx mejora totalmente la programación base de Unity, facilitándonos como nunca la creación de scripts complejos. Veremos, entre otras cosas, cómo manejar todos los eventos de Unity en forma de Observables para facilitar un flujo de datos, acciones y errores."
+  subtype: presentation
+  speakers: [17]
+  language: es
+  complexity: 'Intermediate'
+- id: 018
+  title: 'Music tech solutions to unlock value in the music industry'
+  description: "Because we all love music and want our favorite artists get paid, when their music is played. We'll talk about how technology can enable fair royalties distribution and create new business opportunities for music creators"
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: 'Beginner'
