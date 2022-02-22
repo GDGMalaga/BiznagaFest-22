@@ -3,6 +3,16 @@
   place: 'Hall'
   service: true
   description: 'Show your ticket and start learning!'
+- id: 200
+  title: 'Opening'
+  place: 'Hall'
+  service: true
+  description: 'The show starts!'
+- id: 300
+  title: 'Clousure'
+  place: 'Hall'
+  service: true
+  description: 'Wrap up'
 - id: 307
   title: 'Coffee Break'
   place: 'Hall'
