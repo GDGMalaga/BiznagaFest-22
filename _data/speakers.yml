@@ -216,6 +216,14 @@
   bio: "More than 10 years working on Software Development. PhD. in Artificial Intelligence applied to videogames. In adition, I know that women can be software engineer without dying in the attempt and enjoining the career."
   thumbnailUrl: mariela-nogueira.jpg
   rockstar: true
+- id: 22
+  name: 'Javier'
+  surname: 'Ramirez'
+  company: 'Google'
+  title: 'Tech support staff'
+  bio: "Open Source enthusiast with 15+ years of experience working with Linux and emerging technologies. Natural fit for a role where a mix of technical skills , leadership, confident communication and creative thinking are crucial for success. Obsessed with achieving outstanding customer experience, flawless delivery and employee engagement. Thriving on change. English and Spanish speaker."
+  thumbnailUrl: javier-ramirez.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

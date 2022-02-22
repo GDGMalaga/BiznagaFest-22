@@ -50,7 +50,7 @@
   title: 'Creando extensiones en Google Chrome'
   description: 'En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero.'
   subtype: presentation
-  speakers: [4]
+  speakers: [4, 22]
   language: es
   complexity: 'Beginner'
 #  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
