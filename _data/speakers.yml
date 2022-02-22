@@ -192,6 +192,30 @@
   bio: "Music lover and engineer consultant managing high tech projects for more than 10 years"
   thumbnailUrl: eva-avellaneda.jpg
   rockstar: true
+- id: 19
+  name: 'Javier'
+  surname: 'Lopez'
+  company: 'Telefónica'
+  title: 'Cloud Solutions Architect'
+  bio: "I am a Computer Engineer from the University of Burgos and Master in IT Project Management from the European University of Madrid. I have worked for more than 9 years creating technology and developing data solutions. On a personal level, I actively participate in development communities and open hardware groups, energizing teams and organizing events; I am passionate about the area of training and I am a speaker at different IT congresses."
+  thumbnailUrl: javier-lopez.png
+  rockstar: true
+- id: 20
+  name: 'Jesus'
+  surname: 'Rodríguez'
+  company: 'IdeaBlade'
+  title: 'Software Engineer'
+  bio: "I have a magnet for catching errors, that made me very productive for doing QA and proper testing."
+  thumbnailUrl: jesus-rodriguez.jpg
+  rockstar: true
+- id: 21
+  name: 'Mariela'
+  surname: 'Nogueira'
+  company: 'The Workshop - Inventors of play'
+  title: 'Software Engineer'
+  bio: "More than 10 years working on Software Development. PhD. in Artificial Intelligence applied to videogames. In adition, I know that women can be software engineer without dying in the attempt and enjoining the career."
+  thumbnailUrl: mariela-nogueira.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

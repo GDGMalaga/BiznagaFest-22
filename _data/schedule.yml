@@ -32,3 +32,8 @@
       endTime: "11:30",
       sessionIds: [307]
     }
+    - {
+      startTime: "11:30",
+      endTime: "12:00",
+      sessionIds: [021, 022, 016, 023]
+    }

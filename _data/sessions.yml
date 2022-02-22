@@ -139,3 +139,24 @@
   speakers: [18]
   language: en
   complexity: 'Beginner'
+- id: 021
+  title: 'Cómo crear negocio con BigData y Cloud en tiempos de crisis'
+  description: "Aquí veremos como hacer pasta en base al BigData y abordaremos es el peso que tiene 'la cloud' dentro del sector de los datos, que se espera para el 2025 llegue a almacenar un 49% de todos los datos que generen las empresas. Este dato puede traer preocupación al concentrar en los tres grandes jugadores (Google, Amazon y Microsoft) tanta responsabilidad; no obstante, el uso de tecnologías cloud es una ventaja competitiva a la hora de crear soluciones por parte de startups y veremos como aprovecharlo."
+  subtype: presentation
+  speakers: [19]
+  language: es
+  complexity: 'Intermediate'
+- id: 022
+  title: 'Ejecutando tests automatizados de accesibilidad en el navegador'
+  description: "Se enseñarán las diferentes herramientas populares de accesibilidad en el navegador (Axe, Wave y Microsoft Accessibility Insights). Cómo funcionan, los puntos fuertes de cada una y probaremos en directo diferentes webs elegidas por el público para ver qué tan bien andan con la accesibilidad. Se hablará de por qué es importante hacer todo esto en nuestro dia a dia y se explicará como podemos integrarlo en nuestros proyectos para hacerlo más sencillo."
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: 'Beginner'
+- id: 023
+  title: 'Bio-inspired algorithms: from Darwing to Artificial Intelligence.'
+  description: "Let´s talk about Artificial Intelligence. Reviewing how nature has inspired many AI techniques. We will see how to design an AI algorithm based on the Darwin's Theory of Evolution."
+  subtype: presentation
+  speakers: [21]
+  language: en
+  complexity: 'Beginner'
