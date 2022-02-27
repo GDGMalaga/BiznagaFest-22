@@ -205,3 +205,10 @@
   speakers: [27]
   language: en
   complexity: "Intermediate"
+- id: 404
+  title: "Coming Soon"
+  description: "Coming Soon"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Intermediate"
