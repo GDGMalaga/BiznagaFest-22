@@ -232,6 +232,22 @@
   bio: "I started working at the University of Málaga in 2002, when I joined Nics Lab to work in the CASENET project. Since then I have been involved in different research projects and contracts with industry, both at national and international level. I enjoy teaching cybersecurity at the University and working with students in their final projects. In 2020 I founded Decentralized Security, a University startup working on cybersecurity for blockchain projects. I like challenges."
   thumbnailUrl: isaac-agudo.jpg
   rockstar: true
+- id: 24
+  name: "Moises"
+  surname: "Martínez"
+  company: "Paradigma Digital"
+  title: "GDE on Machine Learning"
+  bio: "Data and Artificial Intelligence (AI) Lead en Paradigma Digital. Doctor en ciencias de la computación e Inteligencia Artificial por la Universidad Carlos III de Madrid y Data Scientist en mis ratos libres. En los últimos años he sido investigador y/o profesor de diferentes sabores de AI en universidades como la Universidad Carlos III de Madrid, la Universidad de Örebro y el King's College London. Además, he sido Speaker en conferencias nacionales e internacionales y soy uno de los orgullosos organizadores de T3chFest, el evento sobre tecnología gratuito más grande de España y tal vez de Europa."
+  thumbnailUrl: moises-martinez.jpg
+  rockstar: true
+- id: 25
+  name: "Almudena Ruiz"
+  surname: "Ruiz de Lara"
+  company: "De Caterpillar"
+  title: "Project Manager"
+  bio: "Responsible for Digital Data Integration projects in EAME and SA."
+  thumbnailUrl: almudea-ruiz.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"

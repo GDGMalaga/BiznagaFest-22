@@ -177,3 +177,17 @@
   speakers: [23]
   language: es
   complexity: "Beginner"
+- id: 025
+  title: "Federated Machine Learning with TensorFlow"
+  description: "Traditional Machine Learning systems require a centralized training process that requires, in addition, collecting and processing data systems which tend to increase the complexity of the learning process and in many cases limit the capacity of the system due to the lack of privacy, the cost of infrastructure and the volume of data that must be stored prior to training. In order to alleviate some of these problems, Google has developed what is known as Federated Machine Learning which allows to train into the edge without data sharing keeping the privacy and minimizing the data transfer."
+  subtype: presentation
+  speakers: [24]
+  language: en
+  complexity: "Beginner"
+- id: 026
+  title: "Project Management and Automated Data Integration"
+  description: "Everyone knows how digital transformation is changing the world. Bringing business intelligence to your organization is key to empower digital strategy, innovate faster, collaborate effectively and deliver remarkable customer experience."
+  subtype: presentation
+  speakers: [25]
+  language: en
+  complexity: "Beginner"
