@@ -130,7 +130,7 @@
   complexity: "Beginner"
 - id: 016
   title: "Failing job interviews"
-  description: "With Google’s Flutter framework continuing to grow in popularity for companies and developers alike, the need for an understanding of utilizing the framework in a large-scale context has become more relevant than ever. In this talk, I will share knowledge on how to start a project to automate mobile development. We will review scalable layer architecture, state management, and continue enhancing code collaboration and team culture."
+  description: "Interviews can be scary or can change your life! It might be frustrating or enjoyable! Whatever it is, Job interviews are not something that everyone is looking forward to it. What if I tell you that by shifting your mindset towards job interviews, you can turn each job interview into a great opportunity regardless of the interview outcome? Many, including myself, usually overvalue the interview's result just because we are trained that way! I changed my mindset towards job interviews a few years ago, and that has changed my life in which I took over 50 job interviews in 1.5 years and failed all of them except one! In this talk, I'll share my personal story and my tips on how you can achieve the same thing."
   subtype: presentation
   speakers: [16]
   language: en
@@ -225,6 +225,13 @@
   subtype: presentation
   speakers: [11]
   language: es
+  complexity: "Intermediate"
+- id: 032
+  title: "Scalable Flutter app development"
+  description: "With Google’s Flutter framework continuing to grow in popularity for companies and developers alike, the need for an understanding of utilizing the framework in a large-scale context has become more relevant than ever. In this talk, I will share knowledge on how to start a project to automate mobile development. We will review scalable layer architecture, state management, and continue enhancing code collaboration and team culture."
+  subtype: presentation
+  speakers: [16]
+  language: en
   complexity: "Intermediate"
 - id: 099
   title: "Coming Soon"
