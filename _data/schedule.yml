@@ -65,17 +65,17 @@
     - {
       startTime: "15:15",
       endTime: "15:45",
-      sessionIds: [013, 030, 011, ]
+      sessionIds: [013, 030, 011, 404]
     }
     - {
       startTime: "15:50",
       endTime: "16:20",
-      sessionIds: [008, 030, , ]
+      sessionIds: [008, 030, 404, 404]
     }
     - {
       startTime: "16:25",
       endTime: "16:55",
-      sessionIds: [404, 404, 404, 404]
+      sessionIds: [031, 404, 404, 404]
     }
     - {
       startTime: "17:00",

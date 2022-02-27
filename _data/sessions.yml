@@ -219,6 +219,13 @@
   speakers: [28]
   language: es
   complexity: "Beginner"
+- id: 031
+  title: "Infraestructura como Código - Terraform"
+  description: "Infraestructura como Código es un presente, y tal como resumo en https://links.nito.dev/youtube-iac, nos puede ayudar en la creación de nuestros proyectos personalmente y profesionalmente. He creado el curso https://www.udemy.com/course/terraform-infraestructura-como-codigo donde hago una introducción a Terraform. En esta charla contaré qué es la Infraestructura como Código, qué es AWS, y como usar Terraform en AWS."
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: "Intermediate"
 - id: 404
   title: "Coming Soon"
   description: "Coming Soon"
