@@ -246,7 +246,7 @@
   company: "De Caterpillar"
   title: "Project Manager"
   bio: "Responsible for Digital Data Integration projects in EAME and SA."
-  thumbnailUrl: almudena-ruiz.jpg
+  thumbnailUrl: almudena-ruiz.jpeg
   rockstar: true
 - id: 26
   name: "Alberto"
@@ -268,9 +268,17 @@
   name: "Bezael"
   surname: "Pérez"
   company: "Dominicode"
-  title: "Frontend, instructor y creador del canal Domini Code"
+  title: "Frontend, instructor y creador del canal DominiCode"
   bio: "Mi nombre es Bezael, soy front-end developer. Tengo alrededor de 4 años trabajando como front-end. Y unos 3 años con Angular. Durante estos 3 años que he estado con Angular, a la vez he ido colaborando con la comunidad, compartiendo lo que he ido aprendiendo. Mayormente trato de compartir lo que sé, en Youtube. También he escrito algunos posts."
   thumbnailUrl: bezael-perez.jpg
+  rockstar: true
+- id: 29
+  name: "Ruben"
+  surname: "Aguilera"
+  company: "KairósDS - GDG Madrid"
+  title: "Responsable de formación y desarrollo interno en Kairós"
+  bio: "Soy una persona apasionada de la tecnología, en continuo aprendizaje con el fin de ayudar a otras personas por el camino."
+  thumbnailUrl: ruben-aguilera.png
   rockstar: true
 #-
 #  id: 7
