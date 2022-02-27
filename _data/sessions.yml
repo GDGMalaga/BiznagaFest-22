@@ -191,3 +191,10 @@
   speakers: [25]
   language: en
   complexity: "Beginner"
+- id: 027
+  title: "Hadoop On Fire"
+  description: "¿Como nacio el BidData? ¿ MapReduce, ese paper de Google? Hadoop es una estructura de software de código abierto para almacenar datos y ejecutar aplicaciones en clústeres de hardware comercial. Proporciona almacenamiento masivo para cualquier tipo de datos, enorme poder de procesamiento y la capacidad de procesar tareas o trabajos concurrentes virtualmente ilimitados."
+  subtype: presentation
+  speakers: [26]
+  language: en
+  complexity: "Beginner"
