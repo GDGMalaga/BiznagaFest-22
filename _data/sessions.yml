@@ -198,3 +198,10 @@
   speakers: [26]
   language: en
   complexity: "Beginner"
+- id: 027
+  title: "Fighting the evil with VirusTotal"
+  description: "Data is the key to defeat cyber threats. At VirusTotal we aggregate and correlate data from many different sources to provide the cyber security community with valuable insights to fight the evil. In this talk, we'll show some of our applied use cases."
+  subtype: presentation
+  speakers: [27]
+  language: en
+  complexity: "Intermediate"
