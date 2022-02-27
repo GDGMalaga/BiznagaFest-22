@@ -133,6 +133,24 @@
   rockstar: true
   social:
     - { name: "twitter", link: "https://twitter.com/IrnMM" }
+- id: 11
+  name: "Antonio"
+  surname: "Moreno-Delgado "
+  company: "Chainalysis"
+  title: "Senior Software Engineer"
+  bio: "I'm a 5-years experience focused on high-load data-driven software products. My main motivation is to do applications that are heavily used and which use-cases matter. Attracted by difficult performance problems. Truly believer of T-shaping. A Software Engineer should be able to run an app from the architecture design, to the deployment and maintenance in production. Full Stack doesn't necessarily mean Frontend + Backend, it can be Backend + DevOps, and that's where I mostly identify with."
+  thumbnailUrl: antonio-moreno.jpeg
+  rockstar: true
+  social:
+    - {
+        name: "youtube",
+        link: "https://www.youtube.com/channel/UChAWeKzmYmIDOOC5EMIH5CQ",
+      }
+    - {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/antoniomorenodelgado/",
+      }
+
 - id: 12
   name: "Jorge"
   surname: "Prudencio Fernández"
