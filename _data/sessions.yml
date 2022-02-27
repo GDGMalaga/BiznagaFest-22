@@ -205,6 +205,13 @@
   speakers: [27]
   language: en
   complexity: "Intermediate"
+- id: 029
+  title: "De Jasmine a Jest"
+  description: "De Jasmine a Jest. En esta charla introductoria vamos a conocer Jest, y cómo configurarlo en tus aplicaciones de Angular. Jest es una framework de testing para JavaScript, con más de 14 millones de descargas semanales en npm. Trataré de convencerte para que tú y tu equipo adopten esta solución para el testing. Solución para JavaScript completa y lista para utilizar."
+  subtype: presentation
+  speakers: [28]
+  language: es
+  complexity: "Beginner"
 - id: 404
   title: "Coming Soon"
   description: "Coming Soon"

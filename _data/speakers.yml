@@ -264,6 +264,14 @@
   bio: "TODO"
   thumbnailUrl: marta-gomez.jpg
   rockstar: true
+- id: 28
+  name: "Bezael"
+  surname: "Pérez"
+  company: "Dominicode"
+  title: "Frontend, instructor y creador del canal Domini Code"
+  bio: "Mi nombre es Bezael, soy front-end developer. Tengo alrededor de 4 años trabajando como front-end. Y unos 3 años con Angular. Durante estos 3 años que he estado con Angular, a la vez he ido colaborando con la comunidad, compartiendo lo que he ido aprendiendo. Mayormente trato de compartir lo que sé, en Youtube. También he escrito algunos posts."
+  thumbnailUrl: bezael-perez.jpg
+  rockstar: true
 #-
 #  id: 7
 #  name: "Valentyn"
