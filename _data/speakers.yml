@@ -238,7 +238,7 @@
   company: "Paradigma Digital"
   title: "GDE on Machine Learning"
   bio: "Data and Artificial Intelligence (AI) Lead en Paradigma Digital. Doctor en ciencias de la computación e Inteligencia Artificial por la Universidad Carlos III de Madrid y Data Scientist en mis ratos libres. En los últimos años he sido investigador y/o profesor de diferentes sabores de AI en universidades como la Universidad Carlos III de Madrid, la Universidad de Örebro y el King's College London. Además, he sido Speaker en conferencias nacionales e internacionales y soy uno de los orgullosos organizadores de T3chFest, el evento sobre tecnología gratuito más grande de España y tal vez de Europa."
-  thumbnailUrl: moises-martinez.jpg
+  thumbnailUrl: moises-martinez.jpeg
   rockstar: true
 - id: 25
   name: "Almudena Ruiz"
@@ -246,7 +246,7 @@
   company: "De Caterpillar"
   title: "Project Manager"
   bio: "Responsible for Digital Data Integration projects in EAME and SA."
-  thumbnailUrl: almudea-ruiz.jpg
+  thumbnailUrl: almudena-ruiz.jpg
   rockstar: true
 - id: 26
   name: "Alberto"
