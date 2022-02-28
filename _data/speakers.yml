@@ -298,7 +298,14 @@
   bio: "Soy una persona apasionada de la tecnología, en continuo aprendizaje con el fin de ayudar a otras personas por el camino."
   thumbnailUrl: ruben-aguilera.png
   rockstar: true
-#-
+- id: 30
+  name: "Daniel"
+  surname: "Grauers"
+  company: "Fortris"
+  title: "Software development manager"
+  bio: "Daniel Grauers is a software engineer with more than 15 years of experience, currently working as development manager at Fortris. During his career, he has worked on web development, mobile apps, and 3D design and animation. Graduated in Computer Science in Malaga, he is passionate about technology and in the last 4 years focused on Bitcoin since he joined the Fortris team "
+  thumbnailUrl: daniel-grauers.jpg
+  rockstar: true
 #  id: 7
 #  name: "Valentyn"
 #  surname: "Shybanov"

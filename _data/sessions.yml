@@ -233,10 +233,10 @@
   speakers: [16]
   language: en
   complexity: "Intermediate"
-- id: 099
-  title: "Coming Soon"
-  description: "Coming Soon"
+- id: 033
+  title: "Modern teams for modern times"
+  description: "Review with us the different challenges to face managing the growth of a team working on enterprise software solutions. In this talk Daniel will speak about the Fortris crypto management platform, the evolution of the team growth and how to keep the effectiveness in the delivery process while new challenges are coming."
   subtype: presentation
-  speakers: []
+  speakers: [30]
   language: en
   complexity: "Intermediate"
