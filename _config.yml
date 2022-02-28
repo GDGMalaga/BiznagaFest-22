@@ -77,8 +77,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks and hand in sessions"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus networking"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

@@ -57,12 +57,12 @@
 #  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 005
-  title: 'Creating Chrome Extensions'
-  description: 'In this talk we will cover what are browser extensions and how you can create and publish one your own in Google Chrome. For this, we will see theoretical aspects as definitions, requirements, security and best practices but we will also include a simple demo to visualize the whole process from the beginning.'
+  title: "Creating Chrome Extensions"
+  description: "In this talk we will cover what are browser extensions and how you can create and publish one your own in Google Chrome. For this, we will see theoretical aspects as definitions, requirements, security and best practices but we will also include a simple demo to visualize the whole process from the beginning."
   subtype: presentation
   speakers: [4, 22]
   language: en
-  complexity: 'Beginner
+  complexity: "Beginner"
 - id: 006
   title: "Destino: Planeta Azure"
   description: "En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!"
