@@ -57,12 +57,12 @@
 #  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 005
-  title: "Creando extensiones en Google Chrome"
-  description: "En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero."
+  title: 'Creating Chrome Extensions'
+  description: 'In this talk we will cover what are browser extensions and how you can create and publish one your own in Google Chrome. For this, we will see theoretical aspects as definitions, requirements, security and best practices but we will also include a simple demo to visualize the whole process from the beginning.'
   subtype: presentation
   speakers: [4, 22]
-  language: es
-  complexity: "Beginner"
+  language: en
+  complexity: 'Beginner
 #  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 006
