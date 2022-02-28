@@ -1,7 +1,7 @@
 - id: 1
   name: "Rosa"
   surname: "Castillo"
-  title: "Content, Diversity and Inclusion"
+  title: "Main Organizer"
   thumbnailUrl: rosa-castillo.jpg
   team: true
   ribbon:
@@ -13,7 +13,7 @@
 - id: 2
   name: "Estefanía"
   surname: "García"
-  title: "Organisation and Management"
+  title: "Main Organizer"
   thumbnailUrl: estefania-garcia.jpg
   team: true
   ribbon:
@@ -28,7 +28,7 @@
 - id: 3
   name: "Cristina"
   surname: "Díaz"
-  title: "Community Relations"
+  title: "Volunteers & Communications"
   thumbnailUrl: cristina-diaz.jpg
   team: true
   ribbon:
@@ -55,7 +55,7 @@
   surname: "Terrasa"
   title: "Social Media"
   thumbnailUrl: joaquin-terrasa.png
-  team: true
+  subTeam: true
   social:
     - { name: "linkedin", link: "https://github.com/LadyNightmare" }
     - { name: "github", link: "https://github.com/espetro" }
@@ -63,8 +63,8 @@
 - id: 6
   name: "Jose Antonio"
   surname: "Palacios"
-  title: "Sponsors & Partnerships"
-  thumbnailUrl: jose-palacios.jpeg
+  title: "Organisation and Management"
+  thumbnailUrl: jose-palacios.jpg
   team: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/joseantpalacios/" }
@@ -75,7 +75,7 @@
   surname: "Baena"
   title: "Local Activities"
   thumbnailUrl: francisco-baena.jpeg
-  team: true
+  subTeam: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/baenans/" }
     - { name: "github", link: "https://github.com/baenans" }
