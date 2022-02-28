@@ -63,8 +63,6 @@
   speakers: [4, 22]
   language: en
   complexity: 'Beginner
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 006
   title: "Destino: Planeta Azure"
   description: "En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!"
