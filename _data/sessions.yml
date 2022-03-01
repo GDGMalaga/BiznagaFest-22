@@ -162,7 +162,7 @@
   language: es
   complexity: "Beginner"
 - id: 023
-  title: "Bio-inspired algorithms: from Darwing to Artificial Intelligence."
+  title: "Bio-inspired algorithms: from Darwin to Artificial Intelligence."
   description: "Let´s talk about Artificial Intelligence. Reviewing how nature has inspired many AI techniques. We will see how to design an AI algorithm based on the Darwin's Theory of Evolution."
   subtype: presentation
   speakers: [21]
