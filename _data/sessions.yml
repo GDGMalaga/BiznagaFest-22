@@ -1,108 +1,240 @@
-- id: 307
-  title: 'Coffee Break'
-  place: 'Hall'
+- id: 100
+  title: "Check-in"
+  place: "Hall"
   service: true
-  description: 'The best time to talk with speakers and attendees'
+  description: "Show your ticket and start learning!"
+- id: 200
+  title: "Opening"
+  place: "Hall"
+  service: true
+  description: "The show starts!"
+- id: 300
+  title: "Clousure"
+  place: "Hall"
+  service: true
+  description: "Wrap up"
+- id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
 - id: 503
-  title: 'Lunch Break'
-  place: 'Dining room'
+  title: "Lunch Break"
+  place: "Dining room"
   service: true
 - id: 001
-  title: '11 años de becas Google para desarrollos Open Source basados en mapas, Inteligencia artificial y otras tecnologías'
-  description: 'Andreu presentará su experiencia muy cercana a Google desarrollando proyectos Open Source con estudiantes universitarios desde los Laboratorios TIC del Parque Científico de Lleida, haciendo hincapié en aquellos de base en Inteligencia Artificial. Con 63 proyectos becados con más de 250.000€ para estudiantes de 10 países, Andreu nos explicará sus métodos de dinamización de los laboratorios y sus actividades con Google y otras tecnológicas.'
+  title: "11 años de becas Google para desarrollos Open Source basados en mapas, Inteligencia artificial y otras tecnologías"
+  description: "Andreu presentará su experiencia muy cercana a Google desarrollando proyectos Open Source con estudiantes universitarios desde los Laboratorios TIC del Parque Científico de Lleida, haciendo hincapié en aquellos de base en Inteligencia Artificial. Con 63 proyectos becados con más de 250.000€ para estudiantes de 10 países, Andreu nos explicará sus métodos de dinamización de los laboratorios y sus actividades con Google y otras tecnológicas."
   subtype: presentation
   speakers: [9]
   language: es
-  complexity: 'Beginner'
+  complexity: "Beginner"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 002
-  title: 'Devops con Docker, Kubernetes y otras herramientas'
-  description: 'La brecha entre desarrollo y operaciones puede ser más fácil de superar con las herramientas adecuadas. En esta charla hablaremos de qué es DevOps y veremos cómo utilizando Docker y Kubernetes podemos simplificar nuestro flujo de trabajo y el paso a producción para ir adoptando las buenas prácticas que la filosofía Devops propone.'
+  title: "Devops con Docker, Kubernetes y otras herramientas"
+  description: "La brecha entre desarrollo y operaciones puede ser más fácil de superar con las herramientas adecuadas. En esta charla hablaremos de qué es DevOps y veremos cómo utilizando Docker y Kubernetes podemos simplificar nuestro flujo de trabajo y el paso a producción para ir adoptando las buenas prácticas que la filosofía Devops propone."
   subtype: presentation
   speakers: [5]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 003
-  title: 'I want to Burp Free'
-  description: 'Charla de introducción al uso de BurpSuite para búsqueda y explotación de vulnerabilidades web. BurpSuite de PortSwigger es actualmente la herramienta más utilizada en lo que a hacking web se refiere. Está compuesta por numerosos módulos, a los que además se les puede añadir plugins externos para complementer ciertas tareas. En la charla se explicará a nivel introductorio para qué sirve la herramienta y cómo se utiliza. Además se verán casos prácticos de explotación de ciertas vulnerabilidades web utilizando módulos de la misma.'
+  title: "I want to Burp Free"
+  description: "Charla de introducción al uso de BurpSuite para búsqueda y explotación de vulnerabilidades web. BurpSuite de PortSwigger es actualmente la herramienta más utilizada en lo que a hacking web se refiere. Está compuesta por numerosos módulos, a los que además se les puede añadir plugins externos para complementer ciertas tareas. En la charla se explicará a nivel introductorio para qué sirve la herramienta y cómo se utiliza. Además se verán casos prácticos de explotación de ciertas vulnerabilidades web utilizando módulos de la misma."
   subtype: presentation
   speakers: [6]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 - id: 004
-  title: 'ArgoCD ¿La herramienta GitOps definitiva?'
-  description: 'Durante esta charla veremos qué es ArgoCD y porqué se ha convertido en uno de los proyectos open source más nombrados en los últimos tiempos en cualquier charla acerca de DevOps o GitOps. Básicamente, ArgoCD es un controlador cloud-native diseñado para Kubernetes que vela porque las aplicaciones que están corriendo en Kubernetes y la visión de cómo han de correr que el equipo de desarrollo define en un repositorio Git, sea idéntica. También veremos qué es la fuente de verdad que definen los desarrolladores, lo bonito que luce el interfaz de ArgoCD y daremos una pinceladas sobre sus características más importantes.'
+  title: "ArgoCD ¿La herramienta GitOps definitiva?"
+  description: "Durante esta charla veremos qué es ArgoCD y porqué se ha convertido en uno de los proyectos open source más nombrados en los últimos tiempos en cualquier charla acerca de DevOps o GitOps. Básicamente, ArgoCD es un controlador cloud-native diseñado para Kubernetes que vela porque las aplicaciones que están corriendo en Kubernetes y la visión de cómo han de correr que el equipo de desarrollo define en un repositorio Git, sea idéntica. También veremos qué es la fuente de verdad que definen los desarrolladores, lo bonito que luce el interfaz de ArgoCD y daremos una pinceladas sobre sus características más importantes."
   subtype: presentation
   speakers: [7]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 005
-  title: 'Creando extensiones en Google Chrome'
-  description: 'En esta charla vamos a explicar qué son las extensiones de navegador y cómo podemos crear y publicar una en Google Chrome (Chrome Web Store). Para ello, introduciremos aspectos teóricos que incluyen definiciones y requisitos técnicos y haremos una demostración sencilla para visualizar todo el proceso desde cero.'
+  title: "Creating Chrome Extensions"
+  description: "In this talk we will cover what are browser extensions and how you can create and publish one your own in Google Chrome. For this, we will see theoretical aspects as definitions, requirements, security and best practices but we will also include a simple demo to visualize the whole process from the beginning."
   subtype: presentation
-  speakers: [4]
-  language: es
-  complexity: 'Beginner'
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [4, 22]
+  language: en
+  complexity: "Beginner"
 - id: 006
-  title: 'Destino: Planeta Azure'
-  description: 'En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!'
+  title: "Destino: Planeta Azure"
+  description: "En Azure DevOps siempre habrá lugar para aplicaciones Angular, y en esta charla mostraremos cómo. Únete a esta charla para descubrir qué es Azure DevOps y cómo podemos utilizarlo en cada fase del desarrollo con Angular: gestión de tareas, integración continua, testing automatizado, despliegues continuos, infraestructura como código... ¡Y aterrizamos nuestra aplicación en el planeta Azure!"
   subtype: presentation
   speakers: [1]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 - id: 007
-  title: 'Develop your music app with lots of flow'
+  title: "Develop your music app with lots of flow"
   description: "Do you want to learn how to use Flow (and StateFlow)? Let's use it to create an musical app, to compose together this symphony, applying reactive rhymes and using as base the MVI architecture in Android. In this talk we will share a journey to create a musical app in Android, applying the latest concurrency trends from Kotlin and this beloved reactive Android architecture. We will go from the origins and basics of the architecture, its advantages (and downsides), to the current implementation using the Flow API."
   subtype: presentation
   speakers: [2]
   language: en
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 - id: 008
-  title: 'Bias Story (o cómo los malvados Sesgos no te dejan avanzar)'
-  description: 'Sesgos, yo? ¡Que va! Pero... ¿Seguro que es bueno que mi siguiente reto profesional sea gestionar personas? ¿Es posible crecer y mejorar como individuos y profesionales, o como adultos ya es tarde para cambiar? ¿Cómo puedo negociar mejor mi próxima subida salarial? Y, en serio, ¿cómo es posible que siga habiendo TANTOS terraplanistas? En esta charla hablaremos de cómo los famosos sesgos influyen en tu día a día profesional y cómo puedes dar la vuelta a la tortilla para identificarlos, aprender y beneficiarte de ellos para ser mejor profesional y mejor persona.'
+  title: "Bias Story (o cómo los malvados Sesgos no te dejan avanzar)"
+  description: "Sesgos, yo? ¡Que va! Pero... ¿Seguro que es bueno que mi siguiente reto profesional sea gestionar personas? ¿Es posible crecer y mejorar como individuos y profesionales, o como adultos ya es tarde para cambiar? ¿Cómo puedo negociar mejor mi próxima subida salarial? Y, en serio, ¿cómo es posible que siga habiendo TANTOS terraplanistas? En esta charla hablaremos de cómo los famosos sesgos influyen en tu día a día profesional y cómo puedes dar la vuelta a la tortilla para identificarlos, aprender y beneficiarte de ellos para ser mejor profesional y mejor persona."
   subtype: presentation
   speakers: [10]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 - id: 009
-  title: 'Cómo bordar la Arquitectura Microfrontends con Angular'
-  description: 'Este año ha terminado de despegar las arquitecturas de Microfrontends, y han pasado de ser algo innovador a ser un tipo de soluciones tecnológicas que solicitan las empresas. Esta visibilidad facilitada a través de las publicaciones de Luca Mezzalira y Manfred Steyer. A lo largo de la charla analizaremos como abordar las arquitecturas de microfrontends, ya utilizadas en proyectos reales, con una base central de Angular. Además de dar un repaso rápido a algunos conceptos necesarios para dichas arquitecturas como monorepo, multirepo, estados, etc...'
+  title: "Cómo bordar la Arquitectura Microfrontends con Angular"
+  description: "Este año ha terminado de despegar las arquitecturas de Microfrontends, y han pasado de ser algo innovador a ser un tipo de soluciones tecnológicas que solicitan las empresas. Esta visibilidad facilitada a través de las publicaciones de Luca Mezzalira y Manfred Steyer. A lo largo de la charla analizaremos como abordar las arquitecturas de microfrontends, ya utilizadas en proyectos reales, con una base central de Angular. Además de dar un repaso rápido a algunos conceptos necesarios para dichas arquitecturas como monorepo, multirepo, estados, etc..."
   subtype: presentation
   speakers: [3]
   language: es
-  complexity: 'Intermediate'
+  complexity: "Intermediate"
 - id: 011
-  title: 'Crea tu chatbot desde 0 sin código'
-  description: 'Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión.'
+  title: "Crea tu chatbot desde 0 sin código"
+  description: "Hoy en día es muy sencillo construir tu propio asistente conversacional y conectar con tus clientes a través de lenguaje natural. En esta sesión te enseñaremos como hablar con tus usuarios a través de canales como Whatsapp, Telegram, web chat o asistente telefónico. Para ello utilizaremos Dialogflow, un potente servicio que permite construir conversaciones de gran calidad, e Integromat, un referente en el mundo de no-code con el que podrás conectar más de 750 servicios a tu asistente. Tengas o no conocimientos técnicos, no pierdas la oportunidad de ver esta sesión."
   subtype: presentation
   speakers: [12]
   language: es
-  complexity: 'Beginner'
+  complexity: "Beginner"
 - id: 012
-  title: '¿Qué pasa en mis microservicios? Distributed tracing'
-  description: 'Mucho se ha hablado de microservicios y su puesta en producción con sistemas como Kubernetes pero... ¿ahora qué? Una vez que el sistema está en producción, hay que monitorizarlo para saber lo que está pasando. En esta charla tendremos una introducción a uno de los temas más candentes del sector tecnológico: observability (y más concretamente, distributed tracing).'
+  title: "¿Qué pasa en mis microservicios? Distributed tracing"
+  description: "Mucho se ha hablado de microservicios y su puesta en producción con sistemas como Kubernetes pero... ¿ahora qué? Una vez que el sistema está en producción, hay que monitorizarlo para saber lo que está pasando. En esta charla tendremos una introducción a uno de los temas más candentes del sector tecnológico: observability (y más concretamente, distributed tracing)."
   subtype: presentation
   speakers: [8]
   language: es
-  complexity: 'Beginner'
+  complexity: "Beginner"
 - id: 013
-  title: 'Introduction to service mesh, Istio as an implementation of this concept, and how it can help us solving challenges'
+  title: "Introduction to service mesh, Istio as an implementation of this concept, and how it can help us solving challenges"
   description: "We can all agree that distributed systems can be really hard to tame. It's of high importance to have visibility into and control over the different layers of the stack in order to achieve a high-performance reliable infrastructure. Let's discover together how the concept of service mesh can be of help on this matter, and how Istio provides useful features to the network layer. "
   subtype: presentation
   speakers: [13]
   language: en
-  complexity: 'Beginner'
+  complexity: "Beginner"
 - id: 014
-  title: 'Understanding Event Sourcing: principles, usage and common mistakes'
-  description: 'Event sourcing is a design pattern that save the state of an entity as a sequence of state change events or facts, it can be seen as a time machine! We will speak about tips and mistakes to avoid from our experience.'
+  title: "Understanding Event Sourcing: principles, usage and common mistakes"
+  description: "Event sourcing is a design pattern that save the state of an entity as a sequence of state change events or facts, it can be seen as a time machine! We will speak about tips and mistakes to avoid from our experience."
   subtype: presentation
   speakers: [14]
   language: en
-  complexity: 'Beginner'
+  complexity: "Beginner"
+- id: 015
+  title: "Improve Team Collaboration with Docker Dev Environments"
+  description: "The pandemic has emphasised the challenges of team collaboration, especially for teams working remotely. Companies are embracing a remote-first mindset and we have to find new ways of collaborating that make our day-to-day work easier. In this talk you'll learn how to take team collaboration to the next level with Docker Dev Enviroments: the new experience to share not just your application's code, but also the entire development context, such as dev tools, dependencies, etc. You'll discover how to create a pre-configured dev environment from any Git context and easily review your colleagues' work without affecting your work. You'll learn how to share your work-in-progress code with your team members in just one click. Finally, you'll see how to leverage the use of Docker Dev Environments to onboard new colleagues faster and get them to collaborate efficiently in your projects, instead of having them spend hours setting up all the developer tooling. If you want to know more about the next big step in software collaboration with Docker, join me!"
+  subtype: presentation
+  speakers: [15]
+  language: en
+  complexity: "Beginner"
+- id: 016
+  title: "Failing job interviews"
+  description: "Interviews can be scary or can change your life! It might be frustrating or enjoyable! Whatever it is, Job interviews are not something that everyone is looking forward to it. What if I tell you that by shifting your mindset towards job interviews, you can turn each job interview into a great opportunity regardless of the interview outcome? Many, including myself, usually overvalue the interview's result just because we are trained that way! I changed my mindset towards job interviews a few years ago, and that has changed my life in which I took over 50 job interviews in 1.5 years and failed all of them except one! In this talk, I'll share my personal story and my tips on how you can achieve the same thing."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "Intermediate"
+- id: 017
+  title: "Programando Videojuegos de Forma Reactiva en Unity con UniRx"
+  description: "Aprende a programar con UniRx en esta charla para poder crear videojuegos que se adapten a cualquier flujo de datos de forma rápida y optimizada. UniRx mejora totalmente la programación base de Unity, facilitándonos como nunca la creación de scripts complejos. Veremos, entre otras cosas, cómo manejar todos los eventos de Unity en forma de Observables para facilitar un flujo de datos, acciones y errores."
+  subtype: presentation
+  speakers: [17]
+  language: es
+  complexity: "Intermediate"
+- id: 020
+  title: "Music tech solutions to unlock value in the music industry"
+  description: "Because we all love music and want our favorite artists get paid, when their music is played. We'll talk about how technology can enable fair royalties distribution and create new business opportunities for music creators"
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "Beginner"
+- id: 021
+  title: "Cómo crear negocio con BigData y Cloud en tiempos de crisis"
+  description: "Aquí veremos como hacer pasta en base al BigData y abordaremos es el peso que tiene 'la cloud' dentro del sector de los datos, que se espera para el 2025 llegue a almacenar un 49% de todos los datos que generen las empresas. Este dato puede traer preocupación al concentrar en los tres grandes jugadores (Google, Amazon y Microsoft) tanta responsabilidad; no obstante, el uso de tecnologías cloud es una ventaja competitiva a la hora de crear soluciones por parte de startups y veremos como aprovecharlo."
+  subtype: presentation
+  speakers: [19]
+  language: es
+  complexity: "Intermediate"
+- id: 022
+  title: "Ejecutando tests automatizados de accesibilidad en el navegador"
+  description: "Se enseñarán las diferentes herramientas populares de accesibilidad en el navegador (Axe, Wave y Microsoft Accessibility Insights). Cómo funcionan, los puntos fuertes de cada una y probaremos en directo diferentes webs elegidas por el público para ver qué tan bien andan con la accesibilidad. Se hablará de por qué es importante hacer todo esto en nuestro dia a dia y se explicará como podemos integrarlo en nuestros proyectos para hacerlo más sencillo."
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: "Beginner"
+- id: 023
+  title: "Bio-inspired algorithms: from Darwin to Artificial Intelligence."
+  description: "Let´s talk about Artificial Intelligence. Reviewing how nature has inspired many AI techniques. We will see how to design an AI algorithm based on the Darwin's Theory of Evolution."
+  subtype: presentation
+  speakers: [21]
+  language: en
+  complexity: "Beginner"
+- id: 024
+  title: "Ecosistema Web 3 para el desarrollo de aplicaciones descentralizadas"
+  description: "El desarrollo de aplicaciones descentralizadas Web 3 requiere de un cambio de paradigma con respecto a las aplicaciones web tradicionales. Las redes blockchain existentes permiten desarrollar aplicaciones descentralizadas usando herramientas similares a las existentes en el ecosistema de aplicaciones web pero con varias peculiaridades. Surgen nuevos riesgos de seguridad y cambian los requisitos de escalabilidad y rendimiento. En esta charla se hará una introducción al ecosistema Web3, haciendo hincapié en las diferencias y similitudes entre el desarrollo de aplicaciones descentralizadas y aplicaciones web tradicionales así como en las limitaciones actuales de la tecnología."
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: "Beginner"
+- id: 025
+  title: "Federated Machine Learning with TensorFlow"
+  description: "Traditional Machine Learning systems require a centralized training process that requires, in addition, collecting and processing data systems which tend to increase the complexity of the learning process and in many cases limit the capacity of the system due to the lack of privacy, the cost of infrastructure and the volume of data that must be stored prior to training. In order to alleviate some of these problems, Google has developed what is known as Federated Machine Learning which allows to train into the edge without data sharing keeping the privacy and minimizing the data transfer."
+  subtype: presentation
+  speakers: [24]
+  language: en
+  complexity: "Beginner"
+- id: 026
+  title: "Project Management and Automated Data Integration"
+  description: "Everyone knows how digital transformation is changing the world. Bringing business intelligence to your organization is key to empower digital strategy, innovate faster, collaborate effectively and deliver remarkable customer experience."
+  subtype: presentation
+  speakers: [25]
+  language: en
+  complexity: "Beginner"
+- id: 027
+  title: "Hadoop On Fire"
+  description: "¿Como nacio el BidData? ¿ MapReduce, ese paper de Google? Hadoop es una estructura de software de código abierto para almacenar datos y ejecutar aplicaciones en clústeres de hardware comercial. Proporciona almacenamiento masivo para cualquier tipo de datos, enorme poder de procesamiento y la capacidad de procesar tareas o trabajos concurrentes virtualmente ilimitados."
+  subtype: presentation
+  speakers: [26]
+  language: en
+  complexity: "Beginner"
+- id: 028
+  title: "Fighting the evil with VirusTotal"
+  description: "Data is the key to defeat cyber threats. At VirusTotal we aggregate and correlate data from many different sources to provide the cyber security community with valuable insights to fight the evil. In this talk, we'll show some of our applied use cases."
+  subtype: presentation
+  speakers: [27]
+  language: en
+  complexity: "Intermediate"
+- id: 029
+  title: "De Jasmine a Jest"
+  description: "De Jasmine a Jest. En esta charla introductoria vamos a conocer Jest, y cómo configurarlo en tus aplicaciones de Angular. Jest es una framework de testing para JavaScript, con más de 14 millones de descargas semanales en npm. Trataré de convencerte para que tú y tu equipo adopten esta solución para el testing. Solución para JavaScript completa y lista para utilizar."
+  subtype: presentation
+  speakers: [28]
+  language: es
+  complexity: "Beginner"
+- id: 030
+  title: "Desplegando Angular en Kubernetes (15:15 - 16:55)"
+  description: "En este taller se pretende, en una primera parte, dar una visión desde el punto de vista del rol de desarrollador de qué es Kubernetes, para qué sirve y qué conceptos básicos debemos manejar; y en la segunda parte hacer una práctica de cómo podemos desplegar una aplicación de Angular, cada participante en su máquina, explicando cuáles son las mejores prácticas a tener en cuenta."
+  subtype: workshop
+  speakers: [29]
+  language: es
+  complexity: "Beginner"
+- id: 031
+  title: "Infraestructura como Código - Terraform"
+  description: "Infraestructura como Código es un presente, y tal como resumo en https://links.nito.dev/youtube-iac, nos puede ayudar en la creación de nuestros proyectos personalmente y profesionalmente. He creado el curso https://www.udemy.com/course/terraform-infraestructura-como-codigo donde hago una introducción a Terraform. En esta charla contaré qué es la Infraestructura como Código, qué es AWS, y como usar Terraform en AWS."
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: "Intermediate"
+- id: 032
+  title: "Scalable Flutter app development"
+  description: "With Google’s Flutter framework continuing to grow in popularity for companies and developers alike, the need for an understanding of utilizing the framework in a large-scale context has become more relevant than ever. In this talk, I will share knowledge on how to start a project to automate mobile development. We will review scalable layer architecture, state management, and continue enhancing code collaboration and team culture."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "Intermediate"
+- id: 033
+  title: "Modern teams for modern times"
+  description: "Review with us the different challenges to face managing the growth of a team working on enterprise software solutions. In this talk Daniel will speak about the Fortris crypto management platform, the evolution of the team growth and how to keep the effectiveness in the delivery process while new challenges are coming."
+  subtype: presentation
+  speakers: [30]
+  language: en
+  complexity: "Intermediate"
