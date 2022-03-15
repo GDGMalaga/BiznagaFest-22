@@ -16,10 +16,10 @@
         link: "https://www.linkedin.com/in/elena-guzman-blanco/",
       }
 - id: 2
-  name: "Gema"
-  surname: "Socorro Rodríguez"
-  company: "Cabiry"
-  title: "Microsoft MVP"
+  name: 'Gema'
+  surname: 'Socorro Rodríguez'
+  company: 'Cabify'
+  title: 'Senior Android Developer'
   bio: "I've been programming for more than 10 years (6 of them remotely). Most of that time has been spent doing apps for Android (and, of course, breaking them). I love to convert ideas in a reality, overheat my computer with Android Studio and catch my own bugs. I have a superpower: I'm always able to find the right gif for every moment!"
   thumbnailUrl: gema-socorro.jpg
   rockstar: true
@@ -221,7 +221,7 @@
 - id: 20
   name: "Jesus"
   surname: "Rodríguez"
-  company: "IdeaBlade"
+  company: "Freelance"
   title: "Software Engineer"
   bio: "I have a magnet for catching errors, that made me very productive for doing QA and proper testing."
   thumbnailUrl: jesus-rodriguez.jpg
