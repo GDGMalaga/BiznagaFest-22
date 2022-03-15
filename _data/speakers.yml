@@ -213,8 +213,8 @@
 - id: 19
   name: "Javier"
   surname: "Lopez"
-  company: "Telefónica"
-  title: "Cloud Solutions Architect"
+  company: "Deloitte"
+  title: "Cloud Engineering Senior Manager"
   bio: "I am a Computer Engineer from the University of Burgos and Master in IT Project Management from the European University of Madrid. I have worked for more than 9 years creating technology and developing data solutions. On a personal level, I actively participate in development communities and open hardware groups, energizing teams and organizing events; I am passionate about the area of training and I am a speaker at different IT congresses."
   thumbnailUrl: javier-lopez.png
   rockstar: true
