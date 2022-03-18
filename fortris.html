@@ -1,121 +1,196 @@
 ---
 layout: default
-title: fortris
+title: Fortris
 permalink: /fortris/
-image: blog.jpg
+image: office.jpg
 ---
 
- {% include top-section.html %}
+{% include top-section.html %}
 <style>
-    /* Space out content a bit */
-body {
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
+  /* Logo and description*/
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-/* Custom page header */
-.header {
-  padding-bottom: 20px;
-  border-bottom: 1px solid #e5e5e5;
-}
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
-}
-
-/* Custom page footer */
-.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
-}
-
-/* Customize container */
-@media (min-width: 768px) {
-  .container {
-    max-width: 730px;
+  .description {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
   }
-}
-.container-narrow > hr {
-  margin: 30px 0;
-}
 
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-}
-.jumbotron .btn {
-  padding: 14px 24px;
-  font-size: 21px;
-}
+  .description p {
+    font-family: sans-serif;
+    line-height: 25px;
+    max-width: 40%;
+    padding: 10px 30px;
+    text-align: center;
+  }
 
-/* Supporting marketing content */
-.marketing {
-  margin: 40px 0;
-}
-.marketing p + h4 {
-  margin-top: 28px;
-}
+  .description img {
+    margin: 100px;
+    margin-bottom: 50px;
+    width: 200px;
+  }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
-  .header,
-  .marketing,
-  .footer {
-    padding-right: 0;
-    padding-left: 0;
+  /* Job offers */
+
+  .offers-section {
+    padding: 50px;
   }
-  /* Space out the masthead */
-  .header {
-    margin-bottom: 30px;
+
+  .offers-section h2 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
   }
-  /* Remove the bottom border on the jumbotron for visual effect */
-  .jumbotron {
-    border-bottom: 0;
+
+  .offers-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
-}
+
+  .offer-card {
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px 0 #e5e5e5;
+    margin: 15px;
+    max-width: 400px;
+    padding: 30px;
+  }
+
+  .offer-card * {
+    font-family: sans-serif;
+  }
+
+  .offer-card h3 {
+    color: #03a9f4;
+    font-size: 25px;
+  }
+
+  .offer-card p {
+    line-height: 25px;
+    font-size: 15px;
+  }
+
+  .link-container {
+    margin-top: 40px;
+  }
+
+  .link-container a {
+    background-color: #4285f4;
+    border-radius: 5px;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding: 10px 35px;
+    text-decoration: none;
+    transition: all 0.5s;
+  }
+
+  .link-container a:hover {
+    background-color: #03a9f4;
+  }
+
+  @media screen and (max-width: 768px) {
+    .offer-card {
+      max-width: none;
+    }
+
+    .offers-section {
+      padding: 20px;
+    }
+
+    .description p {
+      max-width: none;
+    }
+  }
 </style>
 
-<!-- Begin Post-->
-<div class="jumbotron">
-    <h1>Jumbotron heading</h1>
-    <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-    <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
-  </div>
+<div class="description">
+  <img src="/img/partners/fortris.svg" />
+  <p>
+    Fortris integrates with existing financial systems. We mirror the standards
+    of the best financial platforms in the world, while adding the technical and
+    policy considerations required for the cryptocurrency ecosystem.
+  </p>
+  <p>
+    Fortris has built and deployed at scale, that essential bridge to enable
+    enterprise to both hold and actually use cryptocurrency as an operational
+    asset.
+  </p>
+</div>
 
-  <div class="row marketing">
-    <div class="col-lg-6">
-      <h4>Subheading</h4>
-      <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-      <h4>Subheading</h4>
-      <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-      <h4>Subheading</h4>
-      <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+<div class="offers-section">
+  <h2>Ofertas de trabajo</h2>
+  <div class="offers-container">
+    <div class="offer-card">
+      <h3>DevOps Engineer</h3>
+      <p>
+        We are looking for an experienced DevOps Engineer with a strong passion
+        for problem solving and attention to detail to join our team in Malaga.
+        Working within the DevOps team, the successful candidate will be someone
+        who has previously designed and delivered a number of
+        software/infrastructure solutions.
+      </p>
+      <div class="link-container">
+        <a
+          target="_blank"
+          href="https://fortris.jobs.personio.com/job/326308?display=en"
+          >VER OFERTA</a
+        >
+      </div>
     </div>
-
-    <div class="col-lg-6">
-      <h4>Subheading</h4>
-      <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-      <h4>Subheading</h4>
-      <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-      <h4>Subheading</h4>
-      <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+    <div class="offer-card">
+      <h3>Senior QA Automation (Java)</h3>
+      <p>
+        We are looking for a QA Automation with strong passion for problem
+        solving to join our team in Malaga. Working closely with the developers
+        & product owner, the successful candidate will be someone who can drive
+        and oversee the testing effort for Fortris. Whilst the primary focus is
+        on test automation there will also be an element of assisting with the
+        functional testing of our product.
+      </p>
+      <div class="link-container">
+        <a
+          target="_blank"
+          href="https://fortris.jobs.personio.com/job/442633?display=en"
+          >VER OFERTA</a
+        >
+      </div>
+    </div>
+    <div class="offer-card">
+      <h3>R&D Engineer</h3>
+      <p>
+        We are looking for a talented Software Development Engineer, to join our
+        Innovation Team at Fortris. The Innovation Team is responsible for
+        researching, investigating and building prototypes for Fortris,
+        maintaining its position as an industry leader and contributor to the
+        crypto community.
+      </p>
+      <div class="link-container">
+        <a
+          target="_blank"
+          href="https://fortris.jobs.personio.com/job/441628?display=en"
+          >VER OFERTA</a
+        >
+      </div>
+    </div>
+    <div class="offer-card">
+      <h3>QA Manager</h3>
+      <p>
+        We’re looking for a QA Manager to help and drive the engineering efforts
+        to constantly improve software quality and automated testing. You will
+        be working closely with the Product & Engineering team to lead
+        end-to-end testing processes through the software development life
+        cycle.
+      </p>
+      <div class="link-container">
+        <a
+          target="_blank"
+          href="https://fortris.jobs.personio.com/job/539414?display=en"
+          >VER OFERTA</a
+        >
+      </div>
     </div>
   </div>
+</div>
+
 <!-- End Post -->

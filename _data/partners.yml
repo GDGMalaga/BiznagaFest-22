@@ -1,74 +1,80 @@
-- group: 'Platinum Sponsors'
+- group: "Platinum Sponsors"
   elements:
     - {
-        name: 'Fortris',
-        description: 'Fortris',
-        link: 'https://www.fortris.com/',
-        imageUrl: 'fortris.svg',
+        name: "Fortris",
+        description: "Fortris",
+        link: "https://www.fortris.com/",
+        imageUrl: "fortris.svg",
       }
-- group: 'Gold Sponsors'
+- group: "Gold Sponsors"
   elements:
     - {
-        name: 'Malt',
-        description: 'Malt',
-        link: 'https://www.malt.es/create-profile?utm_medium=organic&utm_source=event&utm_campaign=es_aqcuis_freelance_offlineevent_newuser_madrid_marketing',
-        imageUrl: 'malt.jpeg',
+        name: "Malt",
+        description: "Malt",
+        link: "https://www.malt.es/create-profile?utm_medium=organic&utm_source=event&utm_campaign=es_aqcuis_freelance_offlineevent_newuser_madrid_marketing",
+        imageUrl: "malt.jpeg",
       }
     - {
-        name: 'Fill the Gapp',
-        description: 'Fill the Gapp',
-        link: 'https://fillthegapp.com//',
-        imageUrl: 'fill_the_gapp.jpeg',
+        name: "Fill the Gapp",
+        description: "Fill the Gapp",
+        link: "https://fillthegapp.com//",
+        imageUrl: "fill_the_gapp.jpeg",
       }
-- group: 'Silver Sponsors'
+    - {
+        name: "Autentia",
+        description: "Autentia",
+        link: "https://www.autentia.com/",
+        imageUrl: "autentia.png",
+      }
+- group: "Silver Sponsors"
   elements:
     - {
-        name: 'Freepik',
-        description: 'Freepik',
-        link: 'https://www.freepikcompany.com/es/sobre-nosotros',
-        imageUrl: 'freepik.svg',
+        name: "Freepik",
+        description: "Freepik",
+        link: "https://www.freepikcompany.com/es/sobre-nosotros",
+        imageUrl: "freepik.svg",
       }
     - {
-        name: 'The Workshop',
-        description: 'The Workshop',
-        link: 'https://theworkshop.com/es/',
-        imageUrl: 'the_workshop.jpg',
+        name: "The Workshop",
+        description: "The Workshop",
+        link: "https://theworkshop.com/es/",
+        imageUrl: "the_workshop.jpg",
       }
     - {
-        name: 'Google',
-        description: 'Google',
-        link: 'https://www.google.com.ua/intl/en/about/',
-        imageUrl: 'google.svg',
+        name: "Google",
+        description: "Google",
+        link: "https://www.google.com.ua/intl/en/about/",
+        imageUrl: "google.svg",
       }
-- group: 'Bronze Sponsors'
+- group: "Bronze Sponsors"
   elements:
     - {
-        name: 'Verisk',
-        description: 'Verisk',
-        link: 'https://www.sequel.com/',
-        imageUrl: 'verisk.png',
+        name: "Verisk",
+        description: "Verisk",
+        link: "https://www.sequel.com/",
+        imageUrl: "verisk.png",
       }
     - {
-        name: 'KairosDS',
-        description: 'KairosDS',
-        link: 'https://www.kairosds.com/es/index.html',
-        imageUrl: 'kairos.png',
+        name: "KairosDS",
+        description: "KairosDS",
+        link: "https://www.kairosds.com/es/index.html",
+        imageUrl: "kairos.png",
       }
-- group: 'With support of'
+- group: "With support of"
   elements:
     - {
-        name: 'Cervezas Victoria',
-        description: 'Cervezas Victoria',
-        link: 'https://www.cervezavictoria.es/es',
-        imageUrl: 'Victoria.svg',
-        width: '120px',
+        name: "Cervezas Victoria",
+        description: "Cervezas Victoria",
+        link: "https://www.cervezavictoria.es/es",
+        imageUrl: "Victoria.svg",
+        width: "120px",
       }
     - {
-        name: 'ETSI Informática de la Universidad de Málaga',
-        description: 'Escuela Técnica Superior de Informática',
-        link: 'http://web.informatica.uma.es/index.php',
-        imageUrl: 'etsii.png',
-        width: '120px',
+        name: "ETSI Informática de la Universidad de Málaga",
+        description: "Escuela Técnica Superior de Informática",
+        link: "http://web.informatica.uma.es/index.php",
+        imageUrl: "etsii.png",
+        width: "120px",
       }
 #-
 #  group: "Information partners"

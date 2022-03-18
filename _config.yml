@@ -46,6 +46,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/fortris/", text: "Fortris"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/cod/", text: "Code of Conduct"}
@@ -157,8 +158,8 @@ ticketsOffers:
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-01T00:00"
   validThrough: "2022-03-01T23:30"
-#  soldOut: true
-#  soldOutText: "Coming Soon"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Student"
   price: "5"
@@ -170,6 +171,8 @@ ticketsOffers:
   ticketContentList: [Full access to the conference]
   validFrom: "2021-11-21T10:00"
   validThrough: "2022-03-01T23:30"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

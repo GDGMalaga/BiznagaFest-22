@@ -1,7 +1,7 @@
 - id: 1
   name: "Rosa"
   surname: "Castillo"
-  title: "Main Organizer"
+  title: "Diversity and goodies"
   thumbnailUrl: rosa-castillo.jpg
   team: true
   ribbon:
@@ -13,7 +13,7 @@
 - id: 2
   name: "Estefanía"
   surname: "García"
-  title: "Main Organizer"
+  title: "Web and speaker relations"
   thumbnailUrl: estefania-garcia.jpg
   team: true
   ribbon:
@@ -40,7 +40,7 @@
 - id: 4
   name: "Carlos"
   surname: "Caballero"
-  title: "Organisation and Management"
+  title: "Speaker relations and coordination"
   thumbnailUrl: carlos-caballero.jpg
   team: true
   social:
@@ -63,7 +63,7 @@
 - id: 6
   name: "Jose Antonio"
   surname: "Palacios"
-  title: "Organisation and Management"
+  title: "Sponsors and external relations"
   thumbnailUrl: jose-palacios.jpg
   team: true
   social:
@@ -89,3 +89,75 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/joseabarreram/" }
     - { name: "twitter", link: "https://twitter.com/joseabarreram" }
+- id: 8
+  name: "Adriana"
+  surname: "Matoses"
+  title: "Voluntario"
+  thumbnailUrl: Adriana-Matoses.jpg
+  subTeam: true
+- id: 9
+  name: "Andrés"
+  surname: "Matesanz"
+  title: "Voluntario"
+  thumbnailUrl: Andres-Matesanz.png
+  subTeam: true
+- id: 10
+  name: "Daniel"
+  surname: "Olivet"
+  title: "Voluntario"
+  thumbnailUrl: Daniel-Olivet.jpg
+  subTeam: true
+- id: 11
+  name: "Jose"
+  surname: "Estrada"
+  title: "Voluntario"
+  thumbnailUrl: Jose-Estrada.jpg
+  subTeam: true
+- id: 12
+  name: "Carlos Javier"
+  surname: "Gutiérrez"
+  title: "Voluntario"
+  thumbnailUrl: Carlos-Gutierrez.jpg
+  subTeam: true
+- id: 13
+  name: "Inma"
+  surname: "Ortega"
+  title: "Voluntario"
+  thumbnailUrl: Inma-Ortega.jpg
+  subTeam: true
+- id: 14
+  name: "Bertrand"
+  surname: "Lorente"
+  title: "Voluntario"
+  thumbnailUrl: Bertrand-Lorente.jpg
+  subTeam: true
+- id: 15
+  name: "David"
+  surname: "Rojo"
+  title: "Voluntario"
+  thumbnailUrl: David-Rojo.png
+  subTeam: true
+- id: 16
+  name: "Basilio"
+  surname: "Góemez"
+  title: "Voluntario"
+  thumbnailUrl: Basilio-Gomez.jpg
+  subTeam: true
+- id: 17
+  name: "Isaac"
+  surname: "Jimenez"
+  title: "Voluntario"
+  thumbnailUrl: Isaac-Jimenez.jpg
+  subTeam: true
+- id: 18
+  name: "Ricardo"
+  surname: "Mejias"
+  title: "Voluntario"
+  thumbnailUrl: Ricardo-Mejias.JPG
+  subTeam: true
+- id: 19
+  name: "Francisco"
+  surname: "Lara"
+  title: "Voluntario"
+  thumbnailUrl: Francisco-Lara.jpg
+  subTeam: true
