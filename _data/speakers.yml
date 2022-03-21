@@ -1,19 +1,19 @@
 - id: 1
-  name: "Elena"
-  surname: "Guzmán Blanco"
-  company: "Prodware"
-  title: "Microsoft MVP"
-  bio: ".NET developer | Microsoft MVP | speaker | worldbuilding, storytelling | gamedev, futurism | she/they | opinions are my own | #AzureHeroes"
+  name: 'Elena'
+  surname: 'Guzmán Blanco'
+  company: 'Prodware'
+  title: 'Microsoft MVP'
+  bio: '.NET developer | Microsoft MVP | speaker | worldbuilding, storytelling | gamedev, futurism | she/they | opinions are my own | #AzureHeroes'
   thumbnailUrl: elena-guzman.jpg
   rockstar: true
   ribbon:
-    - { abbr: "Microsoft MVP", title: "Microsoft MVP" }
+    - { abbr: 'Microsoft MVP', title: 'Microsoft MVP' }
   social:
-    - { name: "github", link: "https://github.com/Beelzenef" }
-    - { name: "twitter", link: "https://twitter.com/Beelzenef_" }
+    - { name: 'github', link: 'https://github.com/Beelzenef' }
+    - { name: 'twitter', link: 'https://twitter.com/Beelzenef_' }
     - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/elena-guzman-blanco/",
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/elena-guzman-blanco/',
       }
 - id: 2
   name: 'Gema'
@@ -24,292 +24,292 @@
   thumbnailUrl: gema-socorro.jpg
   rockstar: true
   social:
-    - { name: "twitter", link: "https://twitter.com/gemamsr" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/gemasr/" }
+    - { name: 'twitter', link: 'https://twitter.com/gemamsr' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/gemasr/' }
 - id: 3
-  name: "Jesús"
-  surname: "Cuesta Arza"
-  company: "Deloitte"
-  title: "Senior Specialist Lead"
-  bio: "Senior Specialist Lead en Deloitte, responsable de las arquitectura de aplicaciones, colaborador de OpenExpo y co-administrador de diferentes comunidades tecnológicas como Ionic Madrid. Ponente en eventos nacionales e internacionales y aficionado a los hackathones y eventos tecnológicos."
+  name: 'Jesús'
+  surname: 'Cuesta Arza'
+  company: 'Deloitte'
+  title: 'Senior Specialist Lead'
+  bio: 'Senior Specialist Lead en Deloitte, responsable de las arquitectura de aplicaciones, colaborador de OpenExpo y co-administrador de diferentes comunidades tecnológicas como Ionic Madrid. Ponente en eventos nacionales e internacionales y aficionado a los hackathones y eventos tecnológicos.'
   thumbnailUrl: jesus-cuesta.jpg
   rockstar: true
   social:
-    - { name: "github", link: "https://github.com/jesuscuesta/" }
-    - { name: "twitter", link: "https://twitter.com/dejesuscuesta" }
+    - { name: 'github', link: 'https://github.com/jesuscuesta/' }
+    - { name: 'twitter', link: 'https://twitter.com/dejesuscuesta' }
     - {
-        name: "linkedin",
-        link: "http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803",
+        name: 'linkedin',
+        link: 'http://www.linkedin.com/pub/jesus-cuesta-arza/43/603/803',
       }
 - id: 4
-  name: "Ana"
-  surname: "Tinoco Linares"
-  company: "Google"
-  title: "Tech support staff"
-  bio: "Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music lover"
+  name: 'Ana'
+  surname: 'Tinoco Linares'
+  company: 'Google'
+  title: 'Tech support staff'
+  bio: 'Tech support staff in VirusTotal, GDG Malaga collaborator, Padel & Music lover'
   thumbnailUrl: ana-tinoco.jpg
   rockstar: true
   social:
-    - { name: "twitter", link: "https://twitter.com/tinocoooo" }
+    - { name: 'twitter', link: 'https://twitter.com/tinocoooo' }
 - id: 5
-  name: "Laura"
-  surname: "Morillo-Velarde Rodríguez"
-  company: "Seedtag"
-  title: "Team Lead"
-  bio: "Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web."
+  name: 'Laura'
+  surname: 'Morillo-Velarde Rodríguez'
+  company: 'Seedtag'
+  title: 'Team Lead'
+  bio: 'Tech Lead en seedtag, Google Developer Expert en Cloud y Google Cloud Certified como Professional Cloud Architect. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en en backend en desarrollo web.'
   thumbnailUrl: laura-morillo.jpeg
   rockstar: true
   ribbon:
     - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/experts/",
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/',
       }
   social:
-    - { name: "twitter", link: "https://twitter.com/Laura_Morillo" }
+    - { name: 'twitter', link: 'https://twitter.com/Laura_Morillo' }
 - id: 6
-  name: "Daniel"
-  surname: "Púa Orozco"
-  company: " Freepik"
-  title: "Security Tech Lead"
-  bio: "Security Tech Lead at Freepik Company. CTF player. Hack&Beers Málaga Organizer."
+  name: 'Daniel'
+  surname: 'Púa Orozco'
+  company: ' Freepik'
+  title: 'Security Tech Lead'
+  bio: 'Security Tech Lead at Freepik Company. CTF player. Hack&Beers Málaga Organizer.'
   thumbnailUrl: daniel-pua.png
   rockstar: true
   social:
-    - { name: "github", link: "https://github.com/devploit" }
-    - { name: "twitter", link: "https://twitter.com/devploit" }
+    - { name: 'github', link: 'https://github.com/devploit' }
+    - { name: 'twitter', link: 'https://twitter.com/devploit' }
 - id: 7
-  name: "Asier"
-  surname: "Cidón Perianez"
-  company: "Red Hat"
-  title: "Cloud Architect"
-  bio: "More than 10 years experience in Open Sources projects. Passionate about automation, development, Linux, containers, DevOps, agile practices and continuously looking for new challenges and knowledge."
+  name: 'Asier'
+  surname: 'Cidón Perianez'
+  company: 'Red Hat'
+  title: 'Cloud Architect'
+  bio: 'More than 10 years experience in Open Sources projects. Passionate about automation, development, Linux, containers, DevOps, agile practices and continuously looking for new challenges and knowledge.'
   thumbnailUrl: asier-cidon.jpeg
   rockstar: true
   social:
-    - { name: "github", link: "https://github.com/acidonper" }
-    - { name: "twitter", link: "https://twitter.com/asierc3" }
+    - { name: 'github', link: 'https://github.com/acidonper' }
+    - { name: 'twitter', link: 'https://twitter.com/asierc3' }
 - id: 8
-  name: "Israel"
-  surname: "Blancas"
-  company: "Red Hat"
-  title: ""
-  bio: ""
+  name: 'Israel'
+  surname: 'Blancas'
+  company: 'Red Hat'
+  title: ''
+  bio: ''
   thumbnailUrl: israel-blancas.jpeg
   rockstar: true
   social:
-    - { name: "github", link: "https://github.com/iblancasa" }
-    - { name: "twitter", link: "https://twitter.com/iblancasa" }
+    - { name: 'github', link: 'https://github.com/iblancasa' }
+    - { name: 'twitter', link: 'https://twitter.com/iblancasa' }
     - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/iblancasa/?originalSubdomain=es",
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/iblancasa/?originalSubdomain=es',
       }
-    - { name: "youtube", link: "https://www.youtube.com/c/ElenaDotNET" }
+    - { name: 'youtube', link: 'https://www.youtube.com/c/ElenaDotNET' }
 - id: 9
-  name: "Andreu"
-  surname: "Ibañez"
-  company: "GDG Spain"
-  title: "Google Developers Group Lleida Founder and lead organizer"
+  name: 'Andreu'
+  surname: 'Ibañez'
+  company: 'GDG Spain'
+  title: 'Google Developers Group Lleida Founder and lead organizer'
   bio: "Andreu Ibanez is a Google expert, Google Developers Group Lleida Founder and lead organizer, Co-organizer at GDG Spain, mentor admin, and speaker in the Google Open Source programs Google Summer of Code and Google Code-in. Director TIC Laboratories at the Scientific Park of Lleida, Spain. where he founded in 2010 the Liquid Galaxy LAB, a Google GEO projects LAB, now extended with the Artificial Intelligence LAB, LleidaDrone LAB, and P.E.R.A. LAB. Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google and third parties, and giving advice to Tech startups in different areas such as BIM modeling, e-sports, and others. He's Founder and President LleidaDrone, one of the oldest drone technology associations in Spain, well known for his Professional and Amateur conferences, now heading his 17th edition and with more than 80 different drone events developed."
   thumbnailUrl: andreu-ibanez.jpeg
   rockstar: true
   ribbon:
     - {
-        abbr: "GDG",
-        title: "Google Developer Group",
-        url: "https://gdg.community.dev/gdg-lleida/",
+        abbr: 'GDG',
+        title: 'Google Developer Group',
+        url: 'https://gdg.community.dev/gdg-lleida/',
       }
   social:
-    - { name: "github", link: "https://github.com/LiquidGalaxyLAB/" }
-    - { name: "twitter", link: "https://twitter.com/andreuibanez" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/andreuibanez/" }
+    - { name: 'github', link: 'https://github.com/LiquidGalaxyLAB/' }
+    - { name: 'twitter', link: 'https://twitter.com/andreuibanez' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/andreuibanez/' }
 - id: 10
-  name: "Irene"
-  surname: "M. Morgado"
-  company: "Kairós Digital Solutions"
-  title: "Head of Talent & Brand en Kairós Digital Solutions"
-  bio: "Más de 13 años de experiencia. Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles. Desarrollo de iniciativas para hiring, atracción y fidelización de talento en equipos internacionales, implementación de medidas para mejorar el entorno profesional, con foco en las personas."
+  name: 'Irene'
+  surname: 'M. Morgado'
+  company: 'Kairós Digital Solutions'
+  title: 'Head of Talent & Brand en Kairós Digital Solutions'
+  bio: 'Más de 13 años de experiencia. Especializada en RRHH, orientada a diseño de estrategias para la mejora de la motivación y productividad de los equipos. Mejora del engagement a través de herramientas de psicología social y herramientas aplicadas a la comunicación interna. Análisis del comportamiento y definición de perfiles. Desarrollo de iniciativas para hiring, atracción y fidelización de talento en equipos internacionales, implementación de medidas para mejorar el entorno profesional, con foco en las personas.'
   thumbnailUrl: irene-morgado.jpg
   rockstar: true
   social:
-    - { name: "twitter", link: "https://twitter.com/IrnMM" }
+    - { name: 'twitter', link: 'https://twitter.com/IrnMM' }
 - id: 11
-  name: "Antonio"
-  surname: "Moreno-Delgado "
-  company: "Chainalysis"
-  title: "Senior Software Engineer"
+  name: 'Antonio'
+  surname: 'Moreno-Delgado '
+  company: 'Chainalysis'
+  title: 'Senior Software Engineer'
   bio: "I'm a 5-years experience focused on high-load data-driven software products. My main motivation is to do applications that are heavily used and which use-cases matter. Attracted by difficult performance problems. Truly believer of T-shaping. A Software Engineer should be able to run an app from the architecture design, to the deployment and maintenance in production. Full Stack doesn't necessarily mean Frontend + Backend, it can be Backend + DevOps, and that's where I mostly identify with."
   thumbnailUrl: antonio-moreno.png
   rockstar: true
   social:
     - {
-        name: "youtube",
-        link: "https://www.youtube.com/channel/UChAWeKzmYmIDOOC5EMIH5CQ",
+        name: 'youtube',
+        link: 'https://www.youtube.com/channel/UChAWeKzmYmIDOOC5EMIH5CQ',
       }
     - {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/antoniomorenodelgado/",
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/antoniomorenodelgado/',
       }
 
 - id: 12
-  name: "Jorge"
-  surname: "Prudencio Fernández"
-  company: "Sngular"
-  title: "Software Architect"
-  bio: "I have worked in some of the biggest companies in Spain, like BBVA and Telefonica, always in innovation departments. I have experience in international environments too. I have developed projects for companies like Mozilla or Singapore Airlines."
+  name: 'Jorge'
+  surname: 'Prudencio Fernández'
+  company: 'Sngular'
+  title: 'Software Architect'
+  bio: 'I have worked in some of the biggest companies in Spain, like BBVA and Telefonica, always in innovation departments. I have experience in international environments too. I have developed projects for companies like Mozilla or Singapore Airlines.'
   thumbnailUrl: jorge-prudencio.jpeg
   rockstar: true
   social:
-    - { name: "twitter", link: "https://twitter.com/jorpruden" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/jorgeprudencio/" }
+    - { name: 'twitter', link: 'https://twitter.com/jorpruden' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/jorgeprudencio/' }
 - id: 13
-  name: "Antonio"
-  surname: "Alférez"
-  company: "The Workshop"
-  title: "DevOps Engineer"
+  name: 'Antonio'
+  surname: 'Alférez'
+  company: 'The Workshop'
+  title: 'DevOps Engineer'
   bio: "Antonio Alférez - DevOps Engineer at The Workshop. You'll probably find me playing sports (paddle tennis, what else would it be nowadays?) and enjoying some improvised beers with friends. In my spare time, I usually try not to break production."
   thumbnailUrl: antonio-alferez.jpg
   rockstar: true
 - id: 14
-  name: "Antonio"
-  surname: "Tovar"
-  company: "Fortris"
-  title: "Innovation Team Lead"
+  name: 'Antonio'
+  surname: 'Tovar'
+  company: 'Fortris'
+  title: 'Innovation Team Lead'
   bio: 'With over 8 years experience in Development and a degree in Computer Science, Antonio has focused his career on Blockchain, Bitcoin and Payment Technologies." Now he lead the Innovation team at Fortris where newest ideas and technologies are developed'
   thumbnailUrl: antonio-tovar.jpeg
   rockstar: true
 - id: 15
-  name: "Felipe"
-  surname: "Cruz"
-  company: "Docker"
-  title: "Software Engeneer"
-  bio: "Software Engineer at @docker 🐳 Building tools that help devs work on code as a team. CKAD. I enjoy writing about Docker, Kubernetes, and Golang."
+  name: 'Felipe'
+  surname: 'Cruz'
+  company: 'Docker'
+  title: 'Software Engeneer'
+  bio: 'Software Engineer at @docker 🐳 Building tools that help devs work on code as a team. CKAD. I enjoy writing about Docker, Kubernetes, and Golang.'
   thumbnailUrl: felipe-cruz.jpg
   rockstar: true
 - id: 16
-  name: "Majid"
-  surname: "Hajian"
-  company: "Telia"
-  title: "Lead Solutions Architect"
+  name: 'Majid'
+  surname: 'Hajian'
+  company: 'Telia'
+  title: 'Lead Solutions Architect'
   bio: "Detailed-oriented, responsible, a committed engineer with a get-it-done, on-time, and high-quality product spirit who has a leadership passion and has experienced over decade-defining requirements, designing, architecting, implementing, testing, and delivering complex web application in both frontend and backend using various technologies, I care about sharing my knowledge and helping the community; therefore, I am an organizer of different conferences and meetups. I am love being in a developer advocacy position I believe that's what I can shine."
   thumbnailUrl: majid-hajian.jpg
   rockstar: true
 - id: 17
-  name: "Ruben"
-  surname: "Cruz"
-  company: "Lleego"
-  title: "Frontend Developer"
-  bio: "Young web developer and occasionally game developer. Speaker. Obsessed with clean code. Always up to keep learning in this never ending journey that is programming. Currently developing Raccreative Games web platform."
+  name: 'Ruben'
+  surname: 'Cruz'
+  company: 'Lleego'
+  title: 'Frontend Developer'
+  bio: 'Young web developer and occasionally game developer. Speaker. Obsessed with clean code. Always up to keep learning in this never ending journey that is programming. Currently developing Raccreative Games web platform.'
   thumbnailUrl: ruben-cruz.png
   rockstar: true
 - id: 18
-  name: "Eva"
-  surname: "Avellaneda"
-  company: "BMAT Music Innovation"
-  title: "Client Manager"
-  bio: "Music lover and engineer consultant managing high tech projects for more than 10 years"
+  name: 'Eva'
+  surname: 'Avellaneda'
+  company: 'BMAT Music Innovation'
+  title: 'Client Manager'
+  bio: 'Music lover and engineer consultant managing high tech projects for more than 10 years'
   thumbnailUrl: eva-avellaneda.jpg
   rockstar: true
 - id: 19
-  name: "Javier"
-  surname: "Lopez"
-  company: "Deloitte"
-  title: "Cloud Engineering Senior Manager"
-  bio: "I am a Computer Engineer from the University of Burgos and Master in IT Project Management from the European University of Madrid. I have worked for more than 9 years creating technology and developing data solutions. On a personal level, I actively participate in development communities and open hardware groups, energizing teams and organizing events; I am passionate about the area of training and I am a speaker at different IT congresses."
+  name: 'Javier'
+  surname: 'Lopez'
+  company: 'Deloitte'
+  title: 'Cloud Engineering Senior Manager'
+  bio: 'I am a Computer Engineer from the University of Burgos and Master in IT Project Management from the European University of Madrid. I have worked for more than 9 years creating technology and developing data solutions. On a personal level, I actively participate in development communities and open hardware groups, energizing teams and organizing events; I am passionate about the area of training and I am a speaker at different IT congresses.'
   thumbnailUrl: javier-lopez.png
   rockstar: true
 - id: 20
-  name: "Jesus"
-  surname: "Rodríguez"
-  company: "Freelance"
-  title: "Software Engineer"
-  bio: "I have a magnet for catching errors, that made me very productive for doing QA and proper testing."
+  name: 'Jesus'
+  surname: 'Rodríguez'
+  company: 'Freelance'
+  title: 'Software Engineer'
+  bio: 'I have a magnet for catching errors, that made me very productive for doing QA and proper testing.'
   thumbnailUrl: jesus-rodriguez.jpg
   rockstar: true
 - id: 21
-  name: "Mariela"
-  surname: "Nogueira"
-  company: "The Workshop - Inventors of play"
-  title: "Software Engineer"
-  bio: "More than 10 years working on Software Development. PhD. in Artificial Intelligence applied to videogames. In adition, I know that women can be software engineer without dying in the attempt and enjoying the career."
+  name: 'Mariela'
+  surname: 'Nogueira'
+  company: 'The Workshop - Inventors of play'
+  title: 'Software Engineer'
+  bio: 'More than 10 years working on Software Development. PhD. in Artificial Intelligence applied to videogames. In adition, I know that women can be software engineer without dying in the attempt and enjoying the career.'
   thumbnailUrl: mariela-nogueira.jpg
   rockstar: true
 - id: 22
-  name: "Javier"
-  surname: "Ramirez"
-  company: "Google"
-  title: "Tech support staff"
-  bio: "Open Source enthusiast with 15+ years of experience working with Linux and emerging technologies. Natural fit for a role where a mix of technical skills , leadership, confident communication and creative thinking are crucial for success. Obsessed with achieving outstanding customer experience, flawless delivery and employee engagement. Thriving on change. English and Spanish speaker."
+  name: 'Javier'
+  surname: 'Ramirez'
+  company: 'Google'
+  title: 'Tech support staff'
+  bio: 'Open Source enthusiast with 15+ years of experience working with Linux and emerging technologies. Natural fit for a role where a mix of technical skills , leadership, confident communication and creative thinking are crucial for success. Obsessed with achieving outstanding customer experience, flawless delivery and employee engagement. Thriving on change. English and Spanish speaker.'
   thumbnailUrl: javier-ramirez.jpg
   rockstar: true
 - id: 23
-  name: "Isaac"
-  surname: "Agudo"
-  company: "UMA/Decentralized Security"
-  title: "Profesor/Fundador y CEO"
-  bio: "I started working at the University of Málaga in 2002, when I joined Nics Lab to work in the CASENET project. Since then I have been involved in different research projects and contracts with industry, both at national and international level. I enjoy teaching cybersecurity at the University and working with students in their final projects. In 2020 I founded Decentralized Security, a University startup working on cybersecurity for blockchain projects. I like challenges."
+  name: 'Isaac'
+  surname: 'Agudo'
+  company: 'UMA/Decentralized Security'
+  title: 'Profesor/Fundador y CEO'
+  bio: 'I started working at the University of Málaga in 2002, when I joined Nics Lab to work in the CASENET project. Since then I have been involved in different research projects and contracts with industry, both at national and international level. I enjoy teaching cybersecurity at the University and working with students in their final projects. In 2020 I founded Decentralized Security, a University startup working on cybersecurity for blockchain projects. I like challenges.'
   thumbnailUrl: isaac-agudo.jpg
   rockstar: true
 - id: 24
-  name: "Moises"
-  surname: "Martínez"
-  company: "Paradigma Digital"
-  title: "GDE on Machine Learning"
+  name: 'Moises'
+  surname: 'Martínez'
+  company: 'Paradigma Digital'
+  title: 'GDE on Machine Learning'
   bio: "Data and Artificial Intelligence (AI) Lead en Paradigma Digital. Doctor en ciencias de la computación e Inteligencia Artificial por la Universidad Carlos III de Madrid y Data Scientist en mis ratos libres. En los últimos años he sido investigador y/o profesor de diferentes sabores de AI en universidades como la Universidad Carlos III de Madrid, la Universidad de Örebro y el King's College London. Además, he sido Speaker en conferencias nacionales e internacionales y soy uno de los orgullosos organizadores de T3chFest, el evento sobre tecnología gratuito más grande de España y tal vez de Europa."
   thumbnailUrl: moises-martinez.jpeg
   rockstar: true
 - id: 25
-  name: "Almudena"
-  surname: "Ruiz de Lara"
-  company: "Caterpillar"
-  title: "Project Manager"
-  bio: "Responsible for Digital Data Integration projects in EAME and SA."
+  name: 'Almudena'
+  surname: 'Ruiz de Lara'
+  company: 'Caterpillar'
+  title: 'Project Manager'
+  bio: 'Responsible for Digital Data Integration projects in EAME and SA.'
   thumbnailUrl: almudena-ruiz.jpeg
   rockstar: true
 - id: 26
-  name: "Alberto"
-  surname: "Gutiérrez Juanes"
-  company: "Red Hat"
-  title: "Senior Engineer"
+  name: 'Alberto'
+  surname: 'Gutiérrez Juanes'
+  company: 'Red Hat'
+  title: 'Senior Engineer'
   bio: "Alberto Gutierrez studied a Bachelor's Degree in Information Systems, Engineer's Degree in Computer Science and a Master's Degree in Software Engineering Research at the university of Granada. He moved to Madrid looking for new professional experiences, he started working in BBVA, a global bank based in Spain where learned about bigdata and microservices working for more then three years with Hadoop(Certificated), Python, Spark, OpenStack(Certificated), ManageIQ, AWS, GCP, Ansible and the last year working on a cloud project with microservices in GO. Currently he is Redhatter working in opensource dockerize projects, now with Kiali, a service mesh observability for Istio. He is still hooked on the GDG helping to improve the community."
   thumbnailUrl: alberto-gutierrez.png
   rockstar: true
-    ribbon:
+  ribbon:
     - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/experts/",
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/',
       }
 - id: 27
-  name: "Marta"
-  surname: "Gómez Macías"
-  company: "Virus Total"
-  title: "Software Engineer"
-  bio: "Software Engineer at @virustotal. Photography hobbyist. Organizer at @python_granada and @yeswetech_org."
+  name: 'Marta'
+  surname: 'Gómez Macías'
+  company: 'Virus Total'
+  title: 'Software Engineer'
+  bio: 'Software Engineer at @virustotal. Photography hobbyist. Organizer at @python_granada and @yeswetech_org.'
   thumbnailUrl: marta-gomez.jpg
   rockstar: true
 - id: 28
-  name: "Bezael"
-  surname: "Pérez"
-  company: "Dominicode"
-  title: "Frontend, instructor y creador del canal DominiCode"
-  bio: "Mi nombre es Bezael, soy front-end developer. Tengo alrededor de 4 años trabajando como front-end. Y unos 3 años con Angular. Durante estos 3 años que he estado con Angular, a la vez he ido colaborando con la comunidad, compartiendo lo que he ido aprendiendo. Mayormente trato de compartir lo que sé, en Youtube. También he escrito algunos posts."
+  name: 'Bezael'
+  surname: 'Pérez'
+  company: 'Dominicode'
+  title: 'Frontend, instructor y creador del canal DominiCode'
+  bio: 'Mi nombre es Bezael, soy front-end developer. Tengo alrededor de 4 años trabajando como front-end. Y unos 3 años con Angular. Durante estos 3 años que he estado con Angular, a la vez he ido colaborando con la comunidad, compartiendo lo que he ido aprendiendo. Mayormente trato de compartir lo que sé, en Youtube. También he escrito algunos posts.'
   thumbnailUrl: bezael-perez.jpg
   rockstar: true
 - id: 29
-  name: "Ruben"
-  surname: "Aguilera"
-  company: "KairósDS - GDG Madrid"
-  title: "Responsable de formación y desarrollo interno en Kairós"
-  bio: "Soy una persona apasionada de la tecnología, en continuo aprendizaje con el fin de ayudar a otras personas por el camino."
+  name: 'Ruben'
+  surname: 'Aguilera'
+  company: 'KairósDS - GDG Madrid'
+  title: 'Responsable de formación y desarrollo interno en Kairós'
+  bio: 'Soy una persona apasionada de la tecnología, en continuo aprendizaje con el fin de ayudar a otras personas por el camino.'
   thumbnailUrl: ruben-aguilera.png
   rockstar: true
 - id: 30
-  name: "Daniel"
-  surname: "Grauers"
-  company: "Fortris"
-  title: "Software development manager"
-  bio: "Daniel Grauers is a software engineer with more than 15 years of experience, currently working as development manager at Fortris. During his career, he has worked on web development, mobile apps, and 3D design and animation. Graduated in Computer Science in Malaga, he is passionate about technology and in the last 4 years focused on Bitcoin since he joined the Fortris team "
+  name: 'Daniel'
+  surname: 'Grauers'
+  company: 'Fortris'
+  title: 'Software development manager'
+  bio: 'Daniel Grauers is a software engineer with more than 15 years of experience, currently working as development manager at Fortris. During his career, he has worked on web development, mobile apps, and 3D design and animation. Graduated in Computer Science in Malaga, he is passionate about technology and in the last 4 years focused on Bitcoin since he joined the Fortris team '
   thumbnailUrl: daniel-grauers.jpg
   rockstar: true
 #  id: 7
