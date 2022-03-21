@@ -268,12 +268,18 @@
   rockstar: true
 - id: 26
   name: "Alberto"
-  surname: "Gutiérez Juanes"
+  surname: "Gutiérrez Juanes"
   company: "Red Hat"
   title: "Senior Engineer"
   bio: "Alberto Gutierrez studied a Bachelor's Degree in Information Systems, Engineer's Degree in Computer Science and a Master's Degree in Software Engineering Research at the university of Granada. He moved to Madrid looking for new professional experiences, he started working in BBVA, a global bank based in Spain where learned about bigdata and microservices working for more then three years with Hadoop(Certificated), Python, Spark, OpenStack(Certificated), ManageIQ, AWS, GCP, Ansible and the last year working on a cloud project with microservices in GO. Currently he is Redhatter working in opensource dockerize projects, now with Kiali, a service mesh observability for Istio. He is still hooked on the GDG helping to improve the community."
   thumbnailUrl: alberto-gutierrez.png
   rockstar: true
+    ribbon:
+    - {
+        abbr: "GDE",
+        title: "Google Developer Expert",
+        url: "https://developers.google.com/experts/",
+      }
 - id: 27
   name: "Marta"
   surname: "Gómez Macías"
