@@ -212,7 +212,7 @@
   complexity: "Beginner"
 - id: 030
   title: "Desplegando Angular en Kubernetes (15:15 - 16:55)"
-  description: "En este taller se pretende, en una primera parte, dar una visión desde el punto de vista del rol de desarrollador de qué es Kubernetes, para qué sirve y qué conceptos básicos debemos manejar; y en la segunda parte hacer una práctica de cómo podemos desplegar una aplicación de Angular, cada participante en su máquina, explicando cuáles son las mejores prácticas a tener en cuenta."
+  description: "En este taller se pretende, en una primera parte, dar una visión desde el punto de vista del rol de desarrollador de qué es Kubernetes, para qué sirve y qué conceptos básicos debemos manejar; y en la segunda parte hacer una práctica de cómo podemos desplegar una aplicación de Angular, cada participante en su máquina, explicando cuáles son las mejores prácticas a tener en cuenta. El repositorio del taller donde están los requisitos mínimos: https://github.com/raguilera82/k8s-angular"
   subtype: workshop
   speakers: [29]
   language: es
