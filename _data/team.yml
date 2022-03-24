@@ -71,16 +71,6 @@
     - { name: "github", link: "https://github.com/JoseAntpr" }
     - { name: "twitter", link: "https://twitter.com/JoseAntPR" }
 - id: 7
-  name: "Francisco"
-  surname: "Baena"
-  title: "Local Activities"
-  thumbnailUrl: francisco-baena.jpeg
-  subTeam: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/baenans/" }
-    - { name: "github", link: "https://github.com/baenans" }
-    - { name: "twitter", link: "https://twitter.com/baenans" }
-- id: 7
   name: "Jose"
   surname: "Barrera"
   title: "UX & Design"
@@ -160,4 +150,10 @@
   surname: "Lara"
   title: "Voluntario"
   thumbnailUrl: Francisco-Lara.jpg
+  subTeam: true
+- id: 20
+  name: "Alba"
+  surname: "Ruiz"
+  title: "Voluntario"
+  thumbnailUrl: alba_ruiz.jpg
   subTeam: true
