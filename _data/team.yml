@@ -70,13 +70,13 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/joseantpalacios/" }
     - { name: "github", link: "https://github.com/JoseAntpr" }
     - { name: "twitter", link: "https://twitter.com/JoseAntPR" }
-- id: 7
-  name: "Francisco"
-  surname: "Baena"
-  title: "Local Activities"
-  thumbnailUrl: francisco-baena.jpeg
-  subTeam: true
-  social:
+    #- id: 7
+    #  name: "Francisco"
+    #  surname: "Baena"
+    #  title: "Local Activities"
+    #  thumbnailUrl: francisco-baena.jpeg
+    #  subTeam: true
+    #  social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/baenans/" }
     - { name: "github", link: "https://github.com/baenans" }
     - { name: "twitter", link: "https://twitter.com/baenans" }
@@ -160,4 +160,10 @@
   surname: "Lara"
   title: "Voluntario"
   thumbnailUrl: Francisco-Lara.jpg
+  subTeam: true
+- id: 20
+  name: "Alba"
+  surname: "Ruiz"
+  title: "Voluntario"
+  thumbnailUrl: Alba-Ruiz .jpg
   subTeam: true
