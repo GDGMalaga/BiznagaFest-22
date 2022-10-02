@@ -1,10 +1,10 @@
-- group: 'Main organizer'
+- group: "Main organizer"
   elements:
     - {
-        name: 'GDG Málaga',
-        description: 'GDG Málaga - Open and volunteer geek community',
-        link: 'https://gdgmalaga.dev',
-        imageUrl: 'gdg-malaga.png',
+        name: "GDG Málaga",
+        description: "GDG Málaga - Open and volunteer geek community",
+        link: "https://bizngafest.com",
+        imageUrl: "gdg-malaga.png",
       }
 # -
 #  group: "Co-organizers"

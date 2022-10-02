@@ -26,7 +26,7 @@ organizerAlternateName: "Google Developer Group Málaga"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "gdgmalaga@gmail.com"
 organizerLogo: "/img/logos/logo-color.png"
-organizerLink: "https://gdgmalaga.dev/"
+organizerLink: "https://biznagafest.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://ocm.gdgmalaga.dev/"
+#c4pUrl: "https://ocm.gdgmalaga.dev/"
 c4sponsorsUrl: "/assets/Dossier-for-Sponsors.pdf"
 
 
@@ -183,9 +183,9 @@ footerBlocks:
   links:
    - {link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", text: "GDG Málaga"}
    - {link: "https://developers.google.com", text: "Google Developers"}
-   - {link: "https://devfest19.gdgmalaga.dev/", text: "DevFest Malaga '19"}
-   - {link: "https://devfest18.gdgmalaga.dev/", text: "DevFest Malaga '18"}
-   - {link: "https://devfest17.gdgmalaga.dev/", text: "DevFest Malaga '17"}
+  # - {link: "https://devfest19.gdgmalaga.dev/", text: "DevFest Malaga '19"}
+  # - {link: "https://devfest18.gdgmalaga.dev/", text: "DevFest Malaga '18"}
+  # - {link: "https://devfest17.gdgmalaga.dev/", text: "DevFest Malaga '17"}
  -
   title: "Contacts"
   links:
